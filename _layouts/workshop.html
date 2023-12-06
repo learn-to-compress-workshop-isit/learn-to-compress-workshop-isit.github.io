@@ -1,0 +1,765 @@
+---
+layout: default
+---
+
+<!-- about.html -->
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">
+      {% if site.title == "blank" -%}{{ site.first_name }} {{ site.middle_name }}
+      <span class="font-weight-bold">{{ site.last_name }}</span>{%- else -%}{{ site.title }}{%- endif %}
+    </h1>
+    <p class="desc"><b>{{ page.subtitle }}</b></p>
+  </header>
+
+  <article>
+
+    Over the past three years, diffusion models have established themselves as a new generative modelling paradigm.
+    Their empirical successes have broadened the applications of generative modelling to image, video, audio, 3D
+    synthesis and science applications. As diffusion models become more and more popular and are applied to extremely
+    diverse problems, it also becomes harder to track the key contributions in the field. This workshop aims to keep
+    track of the recent advances and set guidelines for future research. By bringing together practice, methodology and
+    theory actors we aim at identifying unexplored areas and pushing the frontier of diffusion model research.
+
+    <br>
+    <br>
+    We are currently accepting submissions! Check out our <a
+      href="https://diffusionworkshop.github.io/submissions/">Call for Papers</a> for more details.
+    <br>
+    <br>
+
+    <br>
+    <!-- {% if page.news -%} -->
+    <!-- News -->
+    <!-- {%- include news.html %}
+    {%- endif %} -->
+
+    <!-- <div class="speakers">
+      <h2>Confirmed Speakers</h2>
+      <p class="card-text">
+      </p>
+      <div class="grid">
+
+
+
+        <div class="grid-item">
+          <div class="card hoverable">
+
+
+            <img src="/assets/resized/Brandon-v2-800x800.jpg"
+              srcset="    /assets/resized/Brandon-v2-480x480.jpg 480w,    /assets/resized/Brandon-v2-800x800.jpg 800w,/ assets/img/Brandon-v2.jpg 1000w">
+
+            <div class="card-body">
+              <h2 class="card-title">Brandon Amos</h2>
+              <h6 class="card-text">Meta AI
+                <div class="affiliate">
+
+                  <a href="https://twitter.com/brandondamos" title="Twitter" target="_blank"
+                    rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+
+
+                  <a href="https://scholar.google.com/citations?user=d8gdZR4AAAAJ" title="GooleScholar" target="_blank"
+                    rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+
+
+                  <a href="http://bamos.github.io/" title="Website" target="_blank" rel="noopener noreferrer"><i
+                      class="fas fa-address-card"></i></a>
+
+                </div>
+              </h6>
+              <p class="card-text"></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="grid-item">
+          <div class="card hoverable">
+
+
+
+            <img src="/assets/resized/Claire-v2-1400x1400.jpg"
+              srcset="    /assets/resized/Claire-v2-480x480.jpg 480w,    /assets/resized/Claire-v2-800x800.jpg 800w,    /assets/resized/Claire-v2-1400x1400.jpg 1400w,/ assets/img/Claire-v2.jpg 2973w">
+
+            <div class="card-body">
+              <h2 class="card-title">Claire Tomlin</h2>
+              <h6 class="card-text">UC Berkeley
+                <div class="affiliate">
+
+
+                  <a href="https://scholar.google.com/citations?user=-5_ksIkAAAAJ" title="GooleScholar" target="_blank"
+                    rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+
+
+                  <a href="https://people.eecs.berkeley.edu/~tomlin/" title="Website" target="_blank"
+                    rel="noopener noreferrer"><i class="fas fa-address-card"></i></a>
+
+                </div>
+              </h6>
+              <p class="card-text"></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="grid-item">
+          <div class="card hoverable">
+
+
+
+            <img src="/assets/resized/cuturi-v2-480x480.jpg"
+              srcset="    /assets/resized/cuturi-v2-480x480.jpg 480w,/ assets/img/cuturi-v2.jpg 579w">
+
+            <div class="card-body">
+              <h2 class="card-title">Marco Cuturi</h2>
+              <h6 class="card-text">Apple &amp; ENSAE CREST
+                <div class="affiliate">
+
+                  <a href="https://twitter.com/CuturiMarco" title="Twitter" target="_blank" rel="noopener noreferrer"><i
+                      class="fab fa-twitter"></i></a>
+
+
+                  <a href="https://scholar.google.com/citations?user=kQEydDMAAAAJ" title="GooleScholar" target="_blank"
+                    rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+
+
+                  <a href="https://marcocuturi.net/" title="Website" target="_blank" rel="noopener noreferrer"><i
+                      class="fas fa-address-card"></i></a>
+
+                </div>
+              </h6>
+              <p class="card-text"></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="grid-item">
+          <div class="card hoverable">
+
+
+
+            <img src="/assets/resized/rianne-800x800.jpg"
+              srcset="    /assets/resized/rianne-480x480.jpg 480w,    /assets/resized/rianne-800x800.jpg 800w,/ assets/img/rianne.jpg 817w">
+
+            <div class="card-body">
+              <h2 class="card-title">Rianne van den Berg</h2>
+              <h6 class="card-text">Microsoft Research
+                <div class="affiliate">
+
+                  <a href="https://twitter.com/vdbergrianne" title="Twitter" target="_blank"
+                    rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+
+
+                  <a href="https://scholar.google.com/citations?user=KARgiboAAAAJ" title="GooleScholar" target="_blank"
+                    rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+
+
+                  <a href="https://www.microsoft.com/en-us/research/people/rvandenberg/" title="Website" target="_blank"
+                    rel="noopener noreferrer"><i class="fas fa-address-card"></i></a>
+
+                </div>
+              </h6>
+              <p class="card-text"></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="grid-item">
+          <div class="card hoverable">
+
+
+
+            <img src="/assets/resized/Jiequn-v2-800x800.jpg"
+              srcset="    /assets/resized/Jiequn-v2-480x480.jpg 480w,    /assets/resized/Jiequn-v2-800x800.jpg 800w,/ assets/img/Jiequn-v2.jpg 1000w">
+
+            <div class="card-body">
+              <h2 class="card-title">Jiequn Han</h2>
+              <h6 class="card-text">Flatiron Institute
+                <div class="affiliate">
+
+                  <a href="https://twitter.com/JiequnH" title="Twitter" target="_blank" rel="noopener noreferrer"><i
+                      class="fab fa-twitter"></i></a>
+
+
+                  <a href="https://scholar.google.com/citations?user=el5gT4AAAAAJ" title="GooleScholar" target="_blank"
+                    rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+
+
+                  <a href="https://users.flatironinstitute.org/~jhan/" title="Website" target="_blank"
+                    rel="noopener noreferrer"><i class="fas fa-address-card"></i></a>
+
+                </div>
+              </h6>
+              <p class="card-text"></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="grid-item">
+          <div class="card hoverable">
+
+
+
+            <img src="/assets/resized/Giorgia-v2-800x800.jpg"
+              srcset="    /assets/resized/Giorgia-v2-480x480.jpg 480w,    /assets/resized/Giorgia-v2-800x800.jpg 800w,/ assets/img/Giorgia-v2.jpg 1000w">
+
+            <div class="card-body">
+              <h2 class="card-title">Giorgia Ramponi</h2>
+              <h6 class="card-text">ETH Zurich
+                <div class="affiliate">
+
+
+                  <a href="https://scholar.google.com/citations?user=xbIAH5gAAAAJ" title="GooleScholar" target="_blank"
+                    rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+
+
+                  <a href="https://gioramponi.github.io/" title="Website" target="_blank" rel="noopener noreferrer"><i
+                      class="fas fa-address-card"></i></a>
+
+                </div>
+              </h6>
+              <p class="card-text"></p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <br>
+
+
+
+
+    <div class="speakers">
+      <h2>Confirmed Panelists</h2>
+
+      <div class="grid">
+
+        <div class="grid-item">
+          <div class="card hoverable">
+
+
+
+            <img src="/assets/resized/Daniela-v2-480x480.jpg"
+              srcset="    /assets/resized/Daniela-v2-480x480.jpg 480w,/ assets/img/Daniela-v2.jpg 580w">
+
+            <div class="card-body">
+              <h2 class="card-title">Daniela Rus</h2>
+              <h6 class="card-text">MIT
+                <div class="affiliate">
+
+
+                  <a href="https://scholar.google.com/citations?user=910z20QAAAAJ" title="GooleScholar" target="_blank"
+                    rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+
+
+                  <a href="https://danielarus.csail.mit.edu/" title="Website" target="_blank"
+                    rel="noopener noreferrer"><i class="fas fa-address-card"></i></a>
+
+                </div>
+              </h6>
+              <p class="card-text"></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="grid-item">
+          <div class="card hoverable">
+
+
+
+            <img src="/assets/resized/Theodorou-v2-800x800.jpg"
+              srcset="    /assets/resized/Theodorou-v2-480x480.jpg 480w,    /assets/resized/Theodorou-v2-800x800.jpg 800w,/ assets/img/Theodorou-v2.jpg 1000w">
+
+            <div class="card-body">
+              <h2 class="card-title">Evangelos Theodorou</h2>
+              <h6 class="card-text">Georgia Tech &amp; Amazon
+                <div class="affiliate">
+
+
+                  <a href="https://scholar.google.com/citations?user=dG9MV7oAAAAJ" title="GooleScholar" target="_blank"
+                    rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+
+
+                  <a href="https://sites.gatech.edu/acds/" title="Website" target="_blank" rel="noopener noreferrer"><i
+                      class="fas fa-address-card"></i></a>
+
+                </div>
+              </h6>
+              <p class="card-text"></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="grid-item">
+          <div class="card hoverable">
+
+
+
+            <img src="/assets/resized/Jeannette-v2-800x800.jpg"
+              srcset="    /assets/resized/Jeannette-v2-480x480.jpg 480w,    /assets/resized/Jeannette-v2-800x800.jpg 800w,/ assets/img/Jeannette-v2.jpg 1000w">
+
+            <div class="card-body">
+              <h2 class="card-title">Jeannette Bohg</h2>
+              <h6 class="card-text">Stanford
+                <div class="affiliate">
+
+                  <a href="https://twitter.com/leto__jean" title="Twitter" target="_blank" rel="noopener noreferrer"><i
+                      class="fab fa-twitter"></i></a>
+
+
+                  <a href="https://scholar.google.com/citations?user=rjnJnEkAAAAJ" title="GooleScholar" target="_blank"
+                    rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+
+
+                  <a href="https://web.stanford.edu/~bohg/" title="Website" target="_blank" rel="noopener noreferrer"><i
+                      class="fas fa-address-card"></i></a>
+
+                </div>
+              </h6>
+              <p class="card-text"></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="grid-item">
+          <div class="card hoverable">
+
+
+
+            <img src="/assets/resized/Arnaud-v2-800x800.jpg"
+              srcset="    /assets/resized/Arnaud-v2-480x480.jpg 480w,    /assets/resized/Arnaud-v2-800x800.jpg 800w,/ assets/img/Arnaud-v2.jpg 1000w">
+
+            <div class="card-body">
+              <h2 class="card-title">Arnaud Doucet</h2>
+              <h6 class="card-text">University of Oxford &amp; DeepMind
+                <div class="affiliate">
+
+                  <a href="https://twitter.com/ArnaudDoucet1" title="Twitter" target="_blank"
+                    rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+
+
+                  <a href="https://scholar.google.com/citations?user=W4SZGV8AAAAJ" title="GooleScholar" target="_blank"
+                    rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+
+
+                  <a href="https://www.stats.ox.ac.uk/~doucet/" title="Website" target="_blank"
+                    rel="noopener noreferrer"><i class="fas fa-address-card"></i></a>
+
+                </div>
+              </h6>
+              <p class="card-text"></p>
+            </div>
+          </div>
+        </div>
+
+        <div class="grid-item">
+          <div class="card hoverable">
+
+
+
+            <img src="/assets/resized/Sarah-v2-800x800.jpg"
+              srcset="    /assets/resized/Sarah-v2-480x480.jpg 480w,    /assets/resized/Sarah-v2-800x800.jpg 800w,/ assets/img/Sarah-v2.jpg 1000w">
+
+            <div class="card-body">
+              <h2 class="card-title">Sarah Dean</h2>
+              <h6 class="card-text">Cornell
+                <div class="affiliate">
+
+
+                  <a href="https://scholar.google.com/citations?user=xhKqjpYAAAAJ" title="GooleScholar" target="_blank"
+                    rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+
+
+                  <a href="https://sdean.website/" title="Website" target="_blank" rel="noopener noreferrer"><i
+                      class="fas fa-address-card"></i></a>
+
+                </div>
+              </h6>
+              <p class="card-text"></p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+    <br> -->
+
+
+
+    <div class="speakers">
+      <h2>Organizers</h2>
+
+      <div class="container">
+        <div class="row row-cols-2">
+
+          <div class="card-item col">
+            <div class="card">
+              <div class="row g-0">
+                <div class="card-img col-md-6">
+
+
+
+                  <img src="/assets/resized/Valentin-480x360.jpg"
+                    srcset="    /assets/resized/Valentin-480x360.jpg 480w,/ assets/img/Valentin.jpg 666w">
+
+                </div>
+                <div class="col-md-6">
+                  <div class="card-body">
+                    <h4 class="card-title">Valentin De Bortoli
+                    </h4>
+
+                    <h6 class="card-text">ENS Paris
+                    </h6>
+
+                    <div class="row ml-1 mr-1 p-0">
+
+                       
+                      <div class="icon" data-toggle="tooltip" title="Twitter">
+                        <a href="https://twitter.com/ValentinDeBort1" title="Twitter" target="_blank"
+                          rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+                      </div>
+
+
+                       
+                      <div class="google-scholar-icon">
+                        <div class="icon" data-toggle="tooltip" title="Goole Scholar">
+                          <a href="https://scholar.google.com/citations?user=dn_F9I4AAAAJ" title="GooleScholar"
+                            target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+                        </div>
+                      </div>
+
+
+                       
+                      <div class="website-icon">
+                        <div class="icon" data-toggle="tooltip" title="Website">
+                          <a href="https://vdeborto.github.io/" title="Website" target="_blank"
+                            rel="noopener noreferrer"><i class="fas fa-address-card"></i></a>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="card-item col">
+            <div class="card">
+              <div class="row g-0">
+                <div class="card-img col-md-6">
+
+
+
+                  <img src="/assets/resized/Charlotte-v2-1400x1050.jpg"
+                    srcset="    /assets/resized/Charlotte-v2-480x360.jpg 480w,    /assets/resized/Charlotte-v2-800x600.jpg 800w,    /assets/resized/Charlotte-v2-1400x1050.jpg 1400w,/ assets/img/Charlotte-v2.jpg 4272w">
+
+                </div>
+                <div class="col-md-6">
+                  <div class="card-body">
+                    <h4 class="card-title">Charlotte Bunne
+                    </h4>
+
+                    <h6 class="card-text">ETH Zurich
+                    </h6>
+
+                    <div class="row ml-1 mr-1 p-0">
+
+                       
+                      <div class="icon" data-toggle="tooltip" title="Twitter">
+                        <a href="https://twitter.com/_bunnech" title="Twitter" target="_blank"
+                          rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+                      </div>
+
+
+                       
+                      <div class="google-scholar-icon">
+                        <div class="icon" data-toggle="tooltip" title="Goole Scholar">
+                          <a href="https://scholar.google.com/citations?user=U80atIAAAAAJ" title="GooleScholar"
+                            target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+                        </div>
+                      </div>
+
+
+                       
+                      <div class="website-icon">
+                        <div class="icon" data-toggle="tooltip" title="Website">
+                          <a href="https://www.bunne.ch/" title="Website" target="_blank" rel="noopener noreferrer"><i
+                              class="fas fa-address-card"></i></a>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="card-item col">
+            <div class="card">
+              <div class="row g-0">
+                <div class="card-img col-md-6">
+
+
+
+                  <img src="/assets/img/bahjat-v3.png" srcset="    /assets/img/bahjat-v3.png 480w">
+
+                </div>
+                <div class="col-md-6">
+                  <div class="card-body">
+                    <h4 class="card-title">Bahjat Kawar
+                    </h4>
+
+                    <h6 class="card-text">Technion
+                    </h6>
+
+                    <div class="row ml-1 mr-1 p-0">
+
+                       
+                      <div class="icon" data-toggle="tooltip" title="Twitter">
+                        <a href="https://twitter.com/bahjat_kawar" title="Twitter" target="_blank"
+                          rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+                      </div>
+
+
+                       
+                      <div class="google-scholar-icon">
+                        <div class="icon" data-toggle="tooltip" title="Goole Scholar">
+                          <a href="https://scholar.google.com/citations?user=36gR46QAAAAJ" title="GooleScholar"
+                            target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+                        </div>
+                      </div>
+
+
+                       
+                      <div class="website-icon">
+                        <div class="icon" data-toggle="tooltip" title="Website">
+                          <a href="https://bahjat-kawar.github.io/" title="Website" target="_blank"
+                            rel="noopener noreferrer"><i class="fas fa-address-card"></i></a>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="card-item col">
+            <div class="card">
+              <div class="row g-0">
+                <div class="card-img col-md-6">
+
+
+
+                  <img src="/assets/img/chenlin-v2.png" srcset="/assets/img/chenlin-v2.png 480w">
+
+                </div>
+                <div class="col-md-6">
+                  <div class="card-body">
+                    <h4 class="card-title">Chenlin Meng
+                    </h4>
+
+                    <h6 class="card-text">Stanford
+                    </h6>
+
+                    <div class="row ml-1 mr-1 p-0">
+
+                       
+                      <div class="icon" data-toggle="tooltip" title="Twitter">
+                        <a href="https://twitter.com/chenlin_meng" title="Twitter" target="_blank"
+                          rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+                      </div>
+
+
+                       
+                      <div class="google-scholar-icon">
+                        <div class="icon" data-toggle="tooltip" title="Goole Scholar">
+                          <a href="https://scholar.google.com/citations?user=nEFU7wIAAAAJ" title="GooleScholar"
+                            target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+                        </div>
+                      </div>
+
+
+                       
+                      <div class="website-icon">
+                        <div class="icon" data-toggle="tooltip" title="Website">
+                          <a href="https://cs.stanford.edu/~chenlin/" title="Website" target="_blank"
+                            rel="noopener noreferrer"><i class="fas fa-address-card"></i></a>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="card-item col">
+            <div class="card">
+              <div class="row g-0">
+                <div class="card-img col-md-6">
+
+
+
+                  <img src="/assets/img/song-v2.png" srcset="    /assets/img/song-v2.png ">
+
+                </div>
+                <div class="col-md-6">
+                  <div class="card-body">
+                    <h4 class="card-title">Jiaming Song
+                    </h4>
+
+                    <h6 class="card-text">Luma AI
+                    </h6>
+                    <div class="row ml-1 mr-1 p-0">
+
+                       
+                      <div class="icon" data-toggle="tooltip" title="Twitter">
+                        <a href="https://twitter.com/baaadas" title="Twitter" target="_blank"
+                          rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+                      </div>
+
+
+                       
+                      <div class="google-scholar-icon">
+                        <div class="icon" data-toggle="tooltip" title="Goole Scholar">
+                          <a href="https://scholar.google.com/citations?user=6dP660cAAAAJ" title="GooleScholar"
+                            target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+                        </div>
+                      </div>
+
+
+                       
+                      <div class="website-icon">
+                        <div class="icon" data-toggle="tooltip" title="Website">
+                          <a href="https://tsong.me/" title="Website" target="_blank" rel="noopener noreferrer"><i
+                              class="fas fa-address-card"></i></a>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="card-item col">
+            <div class="card">
+              <div class="row g-0">
+                <div class="card-img col-md-6">
+
+
+
+                  <img src="/assets/img/james-v2.png" srcset="/assets/img/james-v2.png">
+
+                </div>
+                <div class="col-md-6">
+                  <div class="card-body">
+                    <h4 class="card-title">James Thornton
+                    </h4>
+
+                    <h6 class="card-text">Oxford University
+                    </h6>
+
+                    <div class="row ml-1 mr-1 p-0">
+
+                       
+                      <div class="icon" data-toggle="tooltip" title="Twitter">
+                        <a href="https://twitter.com/JamesTThorn" title="Twitter" target="_blank"
+                          rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+                      </div>
+
+
+                       
+                      <div class="google-scholar-icon">
+                        <div class="icon" data-toggle="tooltip" title="Goole Scholar">
+                          <a href="https://scholar.google.com/citations?user=oFZHOwgAAAAJ" title="GooleScholar"
+                            target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+                        </div>
+                      </div>
+
+
+                       
+                      <div class="website-icon">
+                        <div class="icon" data-toggle="tooltip" title="Website">
+                          <a href="https://jtt94.github.io/" title="Website" target="_blank"
+                            rel="noopener noreferrer"><i class="fas fa-address-card"></i></a>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="card-item col">
+            <div class="card">
+              <div class="row g-0">
+                <div class="card-img col-md-6">
+
+
+
+                  <img src="/assets/img/ye-v3.png" srcset="/assets/img/ye-v3.png">
+
+                </div>
+                <div class="col-md-6">
+                  <div class="card-body">
+                    <h4 class="card-title">Jong Chul Ye
+                    </h4>
+
+                    <h6 class="card-text">KAIST
+                    </h6>
+
+                    <div class="row ml-1 mr-1 p-0">
+
+
+                       
+                      <div class="google-scholar-icon">
+                        <div class="icon" data-toggle="tooltip" title="Goole Scholar">
+                          <a href="https://scholar.google.com/citations?user=HNMjoNEAAAAJ" title="GooleScholar"
+                            target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar"></i></a>
+                        </div>
+                      </div>
+
+
+                       
+                      <div class="website-icon">
+                        <div class="icon" data-toggle="tooltip" title="Website">
+                          <a href="https://bispl.weebly.com/professor.html" title="Website" target="_blank"
+                            rel="noopener noreferrer"><i class="fas fa-address-card"></i></a>
+                        </div>
+                      </div>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+    <br>
+
+
+    <br>
+    <h3 class="post-title"><span class="font-weight-bold">Questions</span></h3>
+    Contact us at
+    <a href="mailto:diffusion.workshop.2023@gmail.com" target="_blank">diffusion.workshop.2023@gmail.com</a>.
+
+  </article>
+
+</div>
