@@ -7,8 +7,7 @@ first_name:
 middle_name:
 last_name: Learn to Compress
 email: learn.to.compress.workshop@gmail.com
-description: Bridging The Theory-Practice Gap in the Era of
-Machine Learning. # the ">" symbol means to ignore newlines until "footer_text:"
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
   
 footer_text: >
 
