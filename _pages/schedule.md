@@ -6,30 +6,25 @@ description:
 nav: true
 nav_order: 2
 ---
-**Friday 15th December 2023**
+**Sunday 7th July 2024** in Athens/Greece.
 
-| **Time (CST)** | **Event** |
+| **Time (UTC +3)** | **Event** |
 | :------:   | :------- |
-| 8:50 - 9:00 | **Introduction and opening remarks** |
-| 9:00 - 9:30 | **Keynote** - Tali Dekel: Pretrained diffusion is all we need: a journey beyond training distribution |
-| 9:30 - 10:00 | **Keynote** - Brian Trippe & Jason Yim: De novo design of protein structure and function with RFdiffusion|
-| 10:00 - 10:15 | **Coffee Break** |
-| 10:15 - 11:15 | **Poster Session 1** |
-| 11:15 - 12:00 | **Panel Discussion**: Arash Vahdat, Ruiqi Gao, Tim Salimans, Robin Rombach|
-| 12:00 - 13:30 | **Lunch Break** |
-| 13:30 - 14:00 | **Keynote** - Sayak Paul: Controlling Text-to-Image Diffusion Models |
-| 14:00 - 14:30 | **Keynote** - Yang Song: Consistency Models|
-| 14:30 - 15:00 | **Contributed Talks** - 3 talks of 10 minutes each|
-| 15:00 - 15:15 | **Coffee Break**|
-| 15:15 - 16:15 | **Invited Lightning Talks** <br/> Holden Lee: Convergence theory for diffusion models <br/> Hyungjin Chung: Adapting diffusion models for inverse problems <br/> Shuang Li: Compositional Visual Generation <br/> Gowthami Somepalli:  Understanding and mitigating |
-| 16:15 - 17:15 | **Poster Session 2** |
-| 17:15 - 17:30 | **Closing Remarks + Award Reveal** |
+| 8:30 - 8:55 | **Breakfast and coffee** |
+| 8:55 - 9:00 | **Opening remarks** |
+| 9:00 - 10:00 | **Keynote presentation 1** |
+| 10:00 - 10:30 | **Coffee break** |
+| 10:30 - 11:30 | **Keynote presentation 2**  |
+| 11:30 - 11:50 | **Oral presentation 1** |
+| 11:50 - 13:50 | **Lunch box and poster session** |
+| 13:50 - 14:50 | **Keynote presentation 3** |
+| 14:50 - 15:10 | **Oral presentation 2** |
+| 15:10 - 15:30 | **Oral presentation 3** |
+| 15:30 - 16:00 | **Coffee break**|
+| 16:00 - 17:00 | **Keynote presentation 4** |
+| 17:00 - 17:05 | **Closing remarks + award reveal** |
 {: .table}
 {: .table-striped}
 
 <br>
 
-<div style="text-align: center;">
-  <img src="/assets/img/todo-v2.png" alt="" />
-  <p></p>
-</div>

@@ -3,11 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Workshop on
+first_name: 
 middle_name:
-last_name: Diffusion Models
-email: diffusion.workshop.2023@gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+last_name: Learn to Compress
+email: learn.to.compress.workshop@gmail.com
+description: Bridging The Theory-Practice Gap in the Era of
+Machine Learning. # the ">" symbol means to ignore newlines until "footer_text:"
   
 footer_text: >
 
