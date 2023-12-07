@@ -2,7 +2,7 @@
 layout: workshop
 title: About
 permalink: /
-subtitle: Workshop at ISIT'24
+subtitle: Workshop at ISIT
 
 profile:
   align: right
