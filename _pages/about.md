@@ -2,7 +2,7 @@
 layout: workshop
 title: About
 permalink: /
-subtitle: Workshop at ISIT
+subtitle: Workshop at International Symposium on Information Theory (ISIT) 2024
 
 profile:
   align: right
