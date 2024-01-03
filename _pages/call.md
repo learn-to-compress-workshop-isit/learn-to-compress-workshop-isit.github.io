@@ -32,7 +32,7 @@ Each paper will go through a rigorous review process. An author of an accepted p
 
 We will offer authors the choice to publish their papers on IEEE Xplore, if they wish to do so. Only the accepted papers that are presented (as posters and/or spotlight presentations) will be published on IEEE Xplore. The requirements of the poster will be communicated with the acceptance notification for the paper. 
 
-All submissions (papers and extended abstracts) should be made through our venue home page on [OpenReview](https://openreview.net/group?id=IEEE.org/ISIT/2024/Workshop/LCW#tab-your-consoles). All papers will also be published via OpenReview after the workshop. 
+All submissions (papers and extended abstracts) should be made through our venue home page on [OpenReview](https://openreview.net/group?id=IEEE.org/ISIT/2024/Workshop/LCW#tab-your-consoles). All accepted submissions will also be published via OpenReview after the workshop. 
 
 The workshop will follow a **soft double-blind reviewing policy**, which means that the authors are required to make sure that their submitted paper (or extended abstract) does not reveal the identity of the author. However, we do not forbid the publication of the work on arXiv. 
 
