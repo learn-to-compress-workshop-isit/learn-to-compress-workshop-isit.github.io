@@ -30,7 +30,7 @@ All full-papers must be formatted as per the requirements of a standard ISIT pap
 
 Each paper will go through a rigorous review process. An author of an accepted paper must register to the workshop and will either present a poster and/or give a spotlight presentation (see [Schedule](https://learn-to-compress-workshop-isit.github.io/schedule/)) based on the paper at the workshop. To maintain the interactive nature of the workshop, we kindly request all presentations to be **in-person**.  
 
-We will offer authors the choice to publish their papers on IEEE Xplore if they wish to do so. Only the accepted papers that are presented (as posters and/or spotlight presentations) will be published on IEEE Xplore.The requirements of the poster will be communicated with the acceptance notification for the paper. 
+We will offer authors the choice to publish their papers on IEEE Xplore, if they wish to do so. Only the accepted papers that are presented (as posters and/or spotlight presentations) will be published on IEEE Xplore.The requirements of the poster will be communicated with the acceptance notification for the paper. 
 
 All submissions (papers and extended abstracts) should be made through our venue home page on [OpenReview](https://openreview.net/group?id=IEEE.org/ISIT/2024/Workshop/LCW#tab-your-consoles). All papers will also be published via OpenReview after the workshop. 
 
