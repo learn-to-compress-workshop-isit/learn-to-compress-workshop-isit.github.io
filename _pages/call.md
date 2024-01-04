@@ -29,7 +29,7 @@ The authors can submit either an extended abstract (up to 3 pages) or a full-pap
 further details, proofs etc.). All submissions should be prepared in the ISIT paper format. You can find information for authors such as paper format, template and example in this [link](https://2024.ieee-isit.org/information-authors-0). All submissions (papers and extended abstracts) should be made through our venue home page on [OpenReview](https://openreview.net/group?id=IEEE.org/ISIT/2024/Workshop/LCW#tab-your-consoles). 
 
 
-Each paper will go through a rigorous review process. The workshop will follow a **soft double-blind reviewing policy**, which means that the authors are required to make sure that their submitted paper or extended abstract does not reveal the identity of the author(s). However, the authors can post their papers on arXiv if they wish to do so. 
+Each paper will go through a rigorous review process. The workshop will follow a **single-blind reviewing policy**, aligned with the ISIT 2024, which means that the all submitted manuscripts should include author names and affiliations. The authors can post their papers on arXiv if they wish to do so. 
 
 For full-paper submissions, we will offer authors the choice to publish their accepted papers on IEEE Xplore. All accepted submissions (extended abstract or full-paper) will also be published via OpenReview after the workshop. 
 
