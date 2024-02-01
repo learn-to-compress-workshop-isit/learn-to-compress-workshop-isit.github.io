@@ -21,7 +21,7 @@ Topics of interest include but are not limited to:
 ## Important Dates
 * Paper submission: March 3, 2024 (11:59 PM, anywhere in the world!).
 * Decision notification: April 15, 2024.
-* Camera ready paper deadline: May 6, 2024.
+* Camera-ready paper deadline: May 6, 2024.
 * ISIT early registration deadline: May 6, 2024.
 * Workshop date: July 7, 2024.
 
