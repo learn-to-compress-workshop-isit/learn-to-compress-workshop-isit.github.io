@@ -35,6 +35,8 @@ Each paper will go through a rigorous review process. The workshop will follow a
 
 For full-paper submissions, we will offer authors the choice to publish their accepted papers on IEEE Xplore. All accepted submissions (extended abstract or full-paper) will also be published via OpenReview after the workshop. 
 
+We welcome all relevant submissions that have been presented, published or are currently undergoing review elsewhere, *if the authors decide not to publish their full-paper on IEEE Xplore*.
+
 An author of an accepted paper or extended abstract must register to the workshop and present a poster. For some selected papers, there will be a spotlight presentation (see [Schedule](https://learn-to-compress-workshop-isit.github.io/schedule/)). To maintain the interactive nature of the workshop, we kindly request all presentations to be **in-person**.  
 
 Only accepted papers that are presented will be published on IEEE Xplore. The requirements of the poster will be communicated with the acceptance notification for the paper. 
