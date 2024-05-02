@@ -8,31 +8,43 @@ nav_order: 2
 ---
 The workshop will be held on **Sunday 7th July 2024** at the Athenaeum Intercontinental Athens in Athens, Greece.
 
-Some accepted papers will be selected for *spotlight presentations* (see below).
+Some accepted papers are selected for *spotlight presentations* (see below).
 
-The most updated invited keynote speaker list can be found in the [main page](https://learn-to-compress-workshop-isit.github.io/). 
+The list of keynote speakers and of spotlight papers can be found in the [main page](https://learn-to-compress-workshop-isit.github.io/).
 
-| **Time (UTC +3)** | **Event** |
-| :------:   | :------- |
-| 9:00 - 9:15 | Coffee |
-| 9:15 - 9:20 | Opening remarks |
-| 9:20 - 10:05 | **Keynote presentation 1** |
-| 10:05 - 10:25 | **Spotlight presentation 1** |
-| 10:25 - 10:55 | Coffee break |
-| 10:55 - 11:15 | **Spotlight presentation 2** |
-| 11:15 - 12:00 | **Keynote presentation 2**  |
-| 12:00 - 13:15 | Lunch break |
-| 13:15 - 14:00 | **Keynote presentation 3** |
-| 14:00 - 15:30 | **Poster session**  |
-| 15:30 - 15:50 | **Spotlight presentation 3** |
-| 15:50 - 16:10 | **Spotlight presentation 4** |
-| 16:10 - 16:25 | Coffee break |
-| 16:25 - 17:10 | **Keynote presentation 4** |
-| 17:10 - 17:15 | Closing remarks + award reveal |
+<style>
+table th:first-of-type {
+    width: 20%;
+}
+table th:nth-of-type(2) {
+    width: 30%;
+}
+table th:nth-of-type(3) {
+    width: 50%;
+}
+</style>
+
+| **Time (UTC +3)** | **Event** | **Speaker / Spotlight Paper** |
+| :----------:   | :------- | :------- |
+| 09:00 - 09:15 | Coffee | |
+| 09:15 - 09:20 | Opening remarks | | 
+| 09:20 - 10:05 | **Keynote presentation 1**  | Dr. Johannes Ballé |
+| 10:05 - 10:25 | **Spotlight presentation 1** | *Rate-Distortion-Perception Tradeoff for Vector Gaussian Sources* |
+| 10:25 - 10:55 | Coffee break | |
+| 10:55 - 11:15 | **Spotlight presentation 2** | Prof. José Miguel Hernández-Lobato |
+| 11:15 - 12:00 | **Keynote presentation 2**  | *Some Notes on the Sample Complexity of Approximate Channel Simulation*|
+| 12:00 - 13:15 | Lunch break | |
+| 13:15 - 14:00 | **Keynote presentation 3**  | Dr. Lucas Theis |
+| 14:00 - 15:30 | **Poster session**  | |
+| 15:30 - 15:50 | **Spotlight presentation 3** | *Staggered Quantizers for Perfect Perceptual Quality: A Connection between Quantizers with Common Randomness and Without*|
+| 15:50 - 16:10 | **Spotlight presentation 4** | *Estimation of Rate-Distortion Function for Computing with Decoder Side Information*|
+| 16:10 - 16:25 | Coffee break | |
+| 16:25 - 17:10 | **Keynote presentation 4**  | Prof. Shirin Jalali |
+| 17:10 - 17:15 | Closing remarks + award reveal | | 
 {: .table}
 {: .table-striped}
 
-There will be a **welcome reception** for participants of the workshop, during 17:15 - 19.15 (details to be announced).
+There will be a **welcome reception** for participants of the workshop, during 18:00 - 20:00 (further details can be found [here](https://2024.ieee-isit.org/tutorials-and-workshops-reception)).
 
 
 
