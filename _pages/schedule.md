@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /schedule/
-title: Schedule
+title: Schedule and Accepted Papers
 description:
 nav: true
 nav_order: 2
@@ -52,5 +52,40 @@ There will be a **welcome reception** for participants of the workshop, during 1
 
 
 
-<br>
 
+#### **Accepted posters**:
+
+- [*Alternate Learning and Compression approaching R(D).*](https://openreview.net/forum?id=gUoegiopC1)\
+Ram Zamir, Kenneth Rose.
+
+- [*Semantic Compression with Information Lattice Learning.*](https://openreview.net/forum?id=Me4WnG7YXc)\
+Haizi Yu, Lav R. Varshney.
+
+- [*Towards Hyperparameter Optimization of Sparse Bayesian Learning Based on Stein's Unbiased Risk Estimator.*](https://openreview.net/forum?id=uIdmrxiwEN)\
+Fangqing Xiao, Dirk Slock.
+
+- [*Task-aware Distributed Source Coding under Dynamic Bandwidth.*](https://openreview.net/forum?id=kAJuNaozWY)\
+Po-han Li, Sravan Kumar Ankireddy, Ruihan Zhao, Hossein Nourkhiz Mahjoub, Ehsan Moradi Pari, Ufuk Topcu, Sandeep P. Chinchali, Hyeji Kim.
+
+
+- [*Robust Distributed Compression with Learned Heegard—Berger Scheme.*](https://openreview.net/forum?id=4V6nB9oH1w)\
+Eyyup Tasci, Ezgi Ozyilkan, Oguzhan Kubilay Ulger, Elza Erkip.
+
+- [*Semantic Image Compression using Textual Transforms.*](https://openreview.net/forum?id=KPVnWPZzzq)\
+Lara Arikan, Tsachy Weissman.
+
+
+- [*Combining Batch and Online Prediction.*](https://openreview.net/forum?id=fRgRzxhIax)\
+Yaniv Fogel, Meir Feder.
+
+- [*Deep-Learned Compression for Radio-Frequency Signal Classification.*](https://openreview.net/forum?id=T3DPLRYzD9)\
+Armani Rodriguez, Yagna Kaasaragadda, Silvija Kokalj-Filipovic.
+
+- [*Learned Lossless Compression via an Extension of the Bayes Codes.*](https://openreview.net/forum?id=UQx2TYcdmU)\
+Yuta Nakahara, Shota Saito, Koshi Shimada, Toshiyasu Matsushima.
+
+- [*An Efficient Difference-of-Convex Solver for Privacy Funnel.*](https://openreview.net/forum?id=dO66fjGG6J)\
+Teng-Hui Huang, Hesham El Gamal. 
+
+- [*The Likelihood Gain of a Language Model as a Metric for Text Summarization.*](https://openreview.net/forum?id=YeKgNL7G7Q)\
+Dana Levin, Alon Kipnis.
