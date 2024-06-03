@@ -32,7 +32,7 @@ table th:nth-of-type(3) {
 | 09:30 - 09:50 | **Spotlight presentation 1** | [*Rate-Distortion-Perception Tradeoff for Vector Gaussian Sources*](https://openreview.net/forum?id=NP2eeHpVJO) |
 | | | Jingjing Qian, Sadaf Salehkalaibar, Jun Chen, Ashish Khisti, Wei Yu, Wuxian Shi, Yiqun Ge, Wen Tong.|
 | 10:00 - 10:30 | Coffee break | |
-| 10:30 - 11:15 | **Keynote presentation 2** | [Prof. José Miguel Hernández-Lobato]https://jmhl.org/) |
+| 10:30 - 11:15 | **Keynote presentation 2** | [Prof. José Miguel Hernández-Lobato](https://jmhl.org/) |
 | 11:15 - 11:35 | **Spotlight presentation 2**  | [*Some Notes on the Sample Complexity of Approximate Channel Simulation*](https://openreview.net/forum?id=Hq07uannyG) |
 | | | Gergely Flamich, Lennie Wells. | 
 | 11:35 - 11:55 | **Spotlight presentation 3** | [*Staggered Quantizers for Perfect Perceptual Quality: A Connection between Quantizers with Common Randomness and Without*](https://openreview.net/forum?id=keX3SC5cOt) |
