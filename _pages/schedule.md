@@ -26,7 +26,7 @@ table th:nth-of-type(3) {
 
 | **Time (UTC +3)** | **Event** | **Speaker / Spotlight Paper** |
 | :----------:   | :------- | :------- |
-| 08:00 - 08:30 | Coffee | |
+| 08:00 - 08:30 | Coffee  break | |
 | 08:40 - 08:45 | Opening remarks | | 
 | 08:45 - 09:30 | **Keynote presentation 1**  | [Dr. Johannes Ballé](https://balle.io/) |
 | 09:30 - 09:50 | **Spotlight presentation 1** | [*Rate-Distortion-Perception Tradeoff for Vector Gaussian Sources*](https://openreview.net/forum?id=NP2eeHpVJO) |
