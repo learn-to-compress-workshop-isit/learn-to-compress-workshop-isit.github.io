@@ -44,7 +44,7 @@ table th:nth-of-type(3) {
 | 16:00 - 16:45 | **Keynote presentation 4**  | [Prof. Shirin Jalali](https://sites.google.com/site/shirinjalali/home) |
 | 16:45 - 17:05 | **Spotlight presentation 4** | [*Estimation of Rate-Distortion Function for Computing with Decoder Side Information*](https://openreview.net/forum?id=xDa9Dxoww0) |
 | | | Heasung Kim, Hyeji Kim, Gustavo De Veciana. |
-| 17:05 - 17:25 | *Open Discussion* | | 
+| 17:05 - 17:25 | *Open discussion* | | 
 | 17:25 - 17:30 | Closing remarks + award reveal | | 
 {: .table}
 {: .table-striped}
