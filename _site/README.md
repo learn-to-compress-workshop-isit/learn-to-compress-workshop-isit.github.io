@@ -1,1 +1,0 @@
-Please refer to the [this workshop repo](https://github.com/diffusionworkshop/diffusionworkshop.github.io) and the original Jekyll theme it is based on, [al-folio](https://github.com/alshedivat/al-folio), to see similar design ideas. 
