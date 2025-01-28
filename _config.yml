@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: 
 middle_name:
-last_name: Learn to Compress
+last_name: 
 email: learn.to.compress.workshop@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   
@@ -65,7 +65,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: diffusionworkshop # your GitHub user name
+github_username: learn-to-compress-workshop-isit # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name

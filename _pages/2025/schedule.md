@@ -1,11 +1,14 @@
 ---
 layout: page
-permalink: /schedule/
+permalink: /2025/schedule/
 title: Schedule and Accepted Papers
 description:
 nav: true
 nav_order: 2
 ---
+Under construction
+
+<!--
 The workshop will be held on **Sunday 7th July 2024** at the Athenaeum Intercontinental Athens in Athens, Greece.
 
 Some accepted papers are selected for *spotlight presentations* (see below).
@@ -135,3 +138,5 @@ Tze-Yang Tung, Homa Esfahanizadeh, Jinfeng Du, and Harish Viswanathan. [Poster #
 **Title**: Compression Codes: Bridging Theory and Algorithms in Signal Processing and Learning.
 
 **Abstract**: In the realm of signal processing and machine learning, a foundational challenge lies in developing robust theoretical frameworks that guide the analysis and design of effective solutions. This talk explores the power of compression codes as a unifying framework for these tasks. By leveraging the principles of data compression, we can derive insightful theoretical perspectives that enhance our understanding of inference and learning problems. This framework not only provides a novel lens for theoretical analysis but also informs the creation of practically sound and theoretically-grounded algorithms. We will examine how compression codes bridge this gap, paving the way for advancements in signal processing and machine learning research.
+
+-->
