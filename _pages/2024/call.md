@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /submissions/
+permalink: /2024/call/
 title: Call for Papers
 description:  
-nav: true
+nav: false
 nav_order: 3
 ---
 

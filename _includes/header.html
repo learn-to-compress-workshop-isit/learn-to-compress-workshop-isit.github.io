@@ -64,6 +64,7 @@
 
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
+
               {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
               {%- if p.dropdown %}
@@ -75,7 +76,9 @@
                 </a>
                 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
                   {%- for child in p.children -%}
-                  {%- if child.title == 'divider' %}
+                  {%- if child.title == 'header' %}
+                  <span class="dropdown-item"> {{ child.header }} </span>
+                  {%- elsif child.title == 'divider' %}
                   <div class="dropdown-divider"></div>
                   {%- else %}
                   <a class="dropdown-item" href="{{ child.permalink | relative_url }}">{{ child.title }}</a>
@@ -83,6 +86,8 @@
                   {% endfor %}
                 </div>
               </li>
+              {%- elsif p.navbar_spacer %}
+              <li style="border-style: solid; border-width: 1px; border-color: grey; margin: 0px 10px;"></li>
               {%- else %}
               <li class="nav-item {% if page.title == p.title %}active{% endif %}">
                 <a class="nav-link" href="{{ p.url | relative_url }}">{{ p.title }}

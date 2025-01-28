@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: 2025
 nav: false
 nav_order:
 dropdown: true
