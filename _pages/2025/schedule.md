@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /2025/schedule/
-title: Schedule and Accepted Papers
+title: Schedule
 description:
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 Under construction
 
