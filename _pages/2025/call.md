@@ -34,7 +34,13 @@ All accepted papers will be presented as posters during the poster session. We w
 
 ## Submission Details
 
-All submitted papers should be prepared in the ISIT 2025 paper format. You can find information for authors such as paper format, template and example in this link. All papers should be made through our venue home page on EDAS (link coming soon). 
+All submitted papers should be prepared in the ISIT 2025 paper format. You can find information for authors such as paper format, template and example **[at this link](https://2025.ieee-isit.org/information-authors-0)**. 
+
+
+<b>All papers should be made through our venue home page via <a href="https://edas.info/N33111" target="_blank">this EDAS link</a>.</b> 
+<i>Note: The EDAS submission form is currently titled "Register a paper for 2025 IEEE International Symposium on Information Theory (ISIT)", without reference to the workshop. Please disregard this; you can safely register your paper(s) through the form, they will be correctly assigned to the workshop. </i>
+
+
 
 Each paper will go through a rigorous review process. The workshop will follow a __single-blind reviewing policy__, aligned with the ISIT 2025, which means that the all submitted manuscripts should include author names and affiliations. The authors can post their papers on arXiv if they wish to do so.
 
