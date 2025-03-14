@@ -27,7 +27,7 @@ This workshop aims to unite experts from machine learning, computer science, and
 All accepted papers will be presented as posters during the poster session. We welcome all relevant recent submissions that have been presented, published or are currently undergoing review elsewhere, if the authors decide not to publish their full-paper on IEEE Xplore. Some papers will also be selected for spotlight presentations.
 
 ## Important Dates
-- Paper submission deadline: <span style="color:red;font-weight:bold;">March 14, 2025</span> (11:59 PM, anywhere in the world!).
+- Paper submission deadline: <span style="color:red;font-weight:bold;"><s style="text-decoration-thickness: 2px;">March 14</s> March 28, 2025</span> (11:59 PM, anywhere in the world!).
 - Decision notification: __April 18, 2025__
 - Camera-ready paper deadline: __May 1, 2025__
 - Workshop date: __June 26, 2025__
