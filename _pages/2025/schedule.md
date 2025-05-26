@@ -6,14 +6,12 @@ description:
 nav: true
 nav_order: 3
 ---
-Under construction
 
-<!--
-The workshop will be held on **Sunday 7th July 2024** at the Athenaeum Intercontinental Athens in Athens, Greece.
+The workshop will be held on **Thursday 26 June 2025** at the Rackham Graduate School, 915 E Washington St, Ann Arbor, MI 48109, USA. [See the venue on Google Maps](https://maps.app.goo.gl/QdavWxo9Qy9zWvvq6)
 
-Some accepted papers are selected for *spotlight presentations* (see below).
+Some accepted papers are selected for spotlight presentations (see below).
 
-The list of keynote speakers and of spotlight papers can be found in the [main page](https://learn-to-compress-workshop-isit.github.io/).
+For details on the invited talks and the speakers, please see the bottom of the page.
 
 <style>
 table th:first-of-type {
@@ -27,116 +25,109 @@ table th:nth-of-type(3) {
 }
 </style>
 
-| **Time (UTC +3)** | **Event** | **Speaker / Spotlight Paper** |
+| **Time (UTC-4)** | **Event** | **Invited Speaker / Spotlight Paper / Additional Notes** |
 | :----------:   | :------- | :------- |
-| 08:00 - 08:30 | Coffee  break | |
-| 08:40 - 08:45 | Opening remarks | | 
-| 08:45 - 09:30 | **Keynote presentation 1**  | [Dr. Johannes Ballé](https://balle.io/) |
-| 09:30 - 09:50 | **Spotlight presentation 1** | [*Rate-Distortion-Perception Tradeoff for Vector Gaussian Sources*](https://openreview.net/forum?id=NP2eeHpVJO) |
-| | | Jingjing Qian, Sadaf Salehkalaibar, Jun Chen, Ashish Khisti, Wei Yu, Wuxian Shi, Yiqun Ge, Wen Tong.|
-| 10:00 - 10:30 | Coffee break | |
-| 10:30 - 11:15 | **Keynote presentation 2** | [Prof. José Miguel Hernández-Lobato](https://jmhl.org/) |
-| 11:15 - 11:35 | **Spotlight presentation 2**  | [*Some Notes on the Sample Complexity of Approximate Channel Simulation*](https://openreview.net/forum?id=Hq07uannyG) |
-| | | Gergely Flamich, Lennie Wells. | 
-| 11:35 - 11:55 | **Spotlight presentation 3** | [*Staggered Quantizers for Perfect Perceptual Quality: A Connection between Quantizers with Common Randomness and Without*](https://openreview.net/forum?id=keX3SC5cOt) |
-| | | Ruida Zhou, Chao Tian. |
-| 12:00 - 13:30 | Lunch break | |
-| 13:45 - 14:30 | **Keynote presentation 3**  | [Dr. Lucas Theis](https://theis.io/) |
-| 14:30 - 16:00 |  **Poster session**  | |
-| 15:00 - 15:30 | Coffee Break | | 
-| 16:00 - 16:45 | **Keynote presentation 4**  | [Prof. Shirin Jalali](https://sites.google.com/site/shirinjalali/home) |
-| 16:45 - 17:05 | **Spotlight presentation 4** | [*Estimation of Rate-Distortion Function for Computing with Decoder Side Information*](https://openreview.net/forum?id=xDa9Dxoww0) |
-| | | Heasung Kim, Hyeji Kim, Gustavo De Veciana. |
-| 17:05 - 17:25 | *Open discussion* | | 
-| 17:25 - 17:30 | Closing remarks + award reveal | | 
+| 08:30 - 09:35 | [Shannon Lecture at the main conference venue](https://2025.ieee-isit.org/plenary-talks#shor) | |
+| 09:35 - 09:55 | Moving / Coffee  break | |
+| 09:55 - 10:00 | Opening remarks | | 
+| 10:00 - 10:40 | **Invited Talk 1**  | [Prof. Shirin Saeedi Bidokhti](#shirin) |
+| 10:40 - 11:20 | **Invited Talk 2** | [Prof. Ferenc Huszár](#ferenc) |
+| 11:20 - 11:50 | Poster Session 1 | Coffee break at the main venue until **11:30** |
+| 11:50 - 12:30 | **Invited Talk 3** | [Dr. Pulkit Tandon: *Picking the right few: a statistical theory of data selection under weak supervision*](#pulkit) |
+| 12:30 - 12:45 | **Spotlight presentation 1**  | Ali Zafari, Xi Chen and Shirin Jalali: *DeCompress: Denoising via Neural Compression* |
+| 12:45 - 13:50 | Lunch Break | Overlaps with main conference lunch break between **12:50 - 2:30** |
+| 13:50 - 14:30 | **Invited Talk 4**  | [Prof. Chao Tian: *Transformers learn to compress variable-order Markov chain sources in context*](#chao) |
+| 14:30 - 14:45 | **Spotlight presentation 2** | Alfredo De la Fuente, Saurabh Singh and Jona Ballé: *Discretized Approximate Ancestral Sampling* |
+| 14:45 - 15:00 | **Spotlight presentation 3** | Unnikrishnan Kunnath Ganesan, Giuseppe Durisi, Matteo Zecchin, Petar Popovski and Osvaldo Simeone: *Online Conformal Compression for Zero-Delay Communication with Distortion Guarantees* |
+| 15:00 - 15:30 | Poster session 2  | |
+| 15:30 - 16:10 | **Invited Talk 5**  | [Dr. Kedar Tatwawadi: *State of Learned Compression: Past, Present & Future*](#kedar) |
+| 16:10 - 16:50 | **Invited Talk 6**  | [Dr. Yibo Yang](#yibo) |
+| 16:50 - 16:55 | Awards and Closing Remarks | | 
+| 16:55 - 17:25 | Poster Session 3 | | 
 {: .table}
 {: .table-striped}
 
-There will be a **welcome reception** for participants of the workshop, during 18:00 - 20:00 (further details can be found [here](https://2024.ieee-isit.org/tutorials-and-workshops-reception)).
-
-
+The conference **banquet** is taking place directly after the workshop.
 
 
 ### **Accepted posters**:
+<a name="acceptedPosters"></a>
 
-- [*Rate-Distortion-Perception Tradeoff for Vector Gaussian Sources*](https://openreview.net/forum?id=NP2eeHpVJO) [**spotlight presentation**]. \
-Jingjing Qian, Sadaf Salehkalaibar, Jun Chen, Ashish Khisti, Wei Yu, Wuxian Shi, Yiqun Ge, Wen Tong. [Poster #1]
+- *Deep Randomized Distributed Function Computation (DeepRDFC): Neural Distributed Channel Simulation* \
+Didrik Bergström and Onur Günlü [Poster #1]
 
-- [*Some Notes on the Sample Complexity of Approximate Channel Simulation*](https://openreview.net/forum?id=Hq07uannyG) [**spotlight presentation**]. \
-Gergely Flamich, Lennie Wells. [Poster #2]
+- *Online Conformal Compression for Zero-Delay Communication with Distortion Guarantees* \
+Unnikrishnan Kunnath Ganesan, Giuseppe Durisi, Matteo Zecchin, Petar Popovski and Osvaldo Simeone [Poster #2] [**spotlight**]
 
-- [*Staggered Quantizers for Perfect Perceptual Quality: A Connection between Quantizers with Common Randomness and Without*](https://openreview.net/forum?id=keX3SC5cOt) [**spotlight presentation**]. \
-Ruida Zhou, Chao Tian. [Poster #3]
+- *Gone with the Bits: Revealing Racial Bias in Low-Rate Neural Compression for Facial Images* \
+Tian Qiu, Arjun Nichani, Rasta Tadayontahmasebi and Haewon Jeong [Poster #3]
 
-- [*Estimation of Rate-Distortion Function for Computing with Decoder Side Information*](https://openreview.net/forum?id=xDa9Dxoww0) [**spotlight presentation**]. \
- Heasung Kim, Hyeji Kim, Gustavo De Veciana. [Poster #4]
+- *On List Decoding with Importance Sampling* \
+ Buu Phan and Ashish Khisti [Poster #4]
 
+- *LZMidi: Compression-Based Symbolic Music Generation* \
+Connor Ding, Abhiram Rao Gorle, Sagnik Bhattacharya, Divija Hasteer, Naomi Sagan and Tsachy Weissman [Poster #5]
 
-- [*Alternate Learning and Compression approaching R(D).*](https://openreview.net/forum?id=gUoegiopC1)\
-Ram Zamir, Kenneth Rose. [Poster #5]
+- *DeCompress: Denoising via Neural Compression* \
+ Ali Zafari, Xi Chen and Shirin Jalali [Poster #6] [**spotlight**]
 
-- [*Semantic Compression with Information Lattice Learning.*](https://openreview.net/forum?id=Me4WnG7YXc)\
-Haizi Yu, Lav R. Varshney. [Poster #15]
+- *Generalizable Real-Time Accelerated Dynamic MRI* \
+ Silpa Babu, Sajan Lingala and Namrata Vaswani [Poster #7]
 
-- [*Towards Hyperparameter Optimization of Sparse Bayesian Learning Based on Stein's Unbiased Risk Estimator.*](https://openreview.net/forum?id=uIdmrxiwEN)\
-Fangqing Xiao, Dirk Slock. [Poster #6]
-
-- [*Task-aware Distributed Source Coding under Dynamic Bandwidth.*](https://openreview.net/forum?id=kAJuNaozWY)\
-Po-han Li, Sravan Kumar Ankireddy, Ruihan Zhao, Hossein Nourkhiz Mahjoub, Ehsan Moradi Pari, Ufuk Topcu, Sandeep P. Chinchali, Hyeji Kim. [Poster #7]
-
-
-- [*Robust Distributed Compression with Learned Heegard—Berger Scheme.*](https://openreview.net/forum?id=4V6nB9oH1w)\
-Eyyup Tasci, Ezgi Ozyilkan, Oguzhan Kubilay Ulger, Elza Erkip. [Poster #8]
-
-- [*Semantic Image Compression using Textual Transforms.*](https://openreview.net/forum?id=KPVnWPZzzq)\
-Lara Arikan, Tsachy Weissman. [Poster #9]
-
-
-- [*Combining Batch and Online Prediction.*](https://openreview.net/forum?id=fRgRzxhIax)\
-Yaniv Fogel, Meir Feder. [Poster #10]
-
-- [*Deep-Learned Compression for Radio-Frequency Signal Classification.*](https://openreview.net/forum?id=T3DPLRYzD9)\
-Armani Rodriguez, Yagna Kaasaragadda, Silvija Kokalj-Filipovic. [Poster #11]
-
-- [*Learned Lossless Compression via an Extension of the Bayes Codes.*](https://openreview.net/forum?id=UQx2TYcdmU)\
-Yuta Nakahara, Shota Saito, Koshi Shimada, Toshiyasu Matsushima. [Poster #12]
-
-- [*An Efficient Difference-of-Convex Solver for Privacy Funnel.*](https://openreview.net/forum?id=dO66fjGG6J)\
-Teng-Hui Huang, Hesham El Gamal. [Poster #13]
-
-- [*The Likelihood Gain of a Language Model as a Metric for Text Summarization.*](https://openreview.net/forum?id=YeKgNL7G7Q)\
-Dana Levin, Alon Kipnis. [Poster #14]
-
-- *Semi-Joint Source-Channel Coding over Wireless Networks: A Pragmatic Approach via Multi-Level Reliability Interface.*  \
-Tze-Yang Tung, Homa Esfahanizadeh, Jinfeng Du, and Harish Viswanathan. [Poster #16]
-
+- *Discretized Approximate Ancestral Sampling* \
+ Alfredo De la Fuente, Saurabh Singh and Jona Ballé [Poster #8] [**spotlight**]
 
 ### **Keynotes**:
 
-**Speaker**: [Dr. Johannes Ballé](https://balle.io/). 
+#### Invited Talk 1: TBA
+<a name="shirin"></a>
 
-**Title**: Learned Image Compression. 
+**Speaker:** [Prof. Shirin Saeedi Bidokhti](https://www.seas.upenn.edu/~saeedi)
 
-**Abstract**: Since its emergence roughly 7 years ago, the field of learned data compression has attracted considerable attention from both the machine learning and information theory communities. Data-driven source coding promises faster innovation cycles, as well as better adaptation to novel types of sources and unconventional models of distortion. For example, image codecs can now be end-to-end optimized to perform best for specific types of images, by simply replacing the training set. They may now be designed to minimize a given perceptual image metric, or in fact any differentiable perceptual loss function. In this talk, I will review nonlinear transform coding (NTC), a framework of techniques which over the past few years have superseded the state of the art of hand-crafted image compression methods (such as the family of JPEG and MPEG standards) in terms of subjective quality vs. rate. I’ll illustrate the empirical rate–distortion performance of NTC with the help of simple, analytically characterized data sources. Furthermore, I will discuss a recent direction of ongoing work, the search for better measures of perceptual quality, as captured by realism (“How realistic is an image?”) and fidelity (“How similar is an image to a reference?”). I present Wasserstein Distortion, a measure to unify the two, grounded in neuroscientific models of peripheral vision.
+#### Invited Talk 2: TBA
+<a name="ferenc"></a>
 
+**Speaker:** [Prof. Ferenc Huszár](https://www.inference.vc/about/)
 
+#### Invited Talk 3: *Picking the right few: a statistical theory of data selection under weak supervision*
+<a name="pulkit"></a>
 
-**Speaker**: [Prof. José Miguel Hernández-Lobato](https://jmhl.org/).
+**Speaker:** [Dr. Pulkit Tandon](https://www.linkedin.com/in/pulkit-tandon-8621a3a8/)
 
-**Title**: Accelerating Relative Entropy Coding with Space Partitioning.
+**Abstract**
 
-**Abstract**: Relative entropy coding (REC) algorithms aim to transmit a random sample following distribution Q, using a prior distribution P shared between the sender and receiver. General REC algorithms suffer from prohibitive runtimes and existing fast REC algorithms have been limited to very specific problem settings. In this talk, I will introduce a new REC method that utilizes space partitioning to potentially reduce runtime in more practical scenarios than previous scalable REC algorithms. We provide theoretical results for our proposed method and demonstrate its efficiency through both toy examples and practical applications in neural compression. While our approach does not achieve polynomial time complexity, it enables handling larger REC problems much more efficiently. This results in not only faster REC encoding processes but also reduced codelength overhead, thereby offering performance improvements in neural compression applications.
+Labeling and training costs now rival raw-data storage in modern learning pipelines. I will present a principled view of data selection as a complementary form of compression — one that trims the learning budget (labels, interactions, compute) rather than the bitrate. Given a vast unlabeled pool and a weak surrogate model that predicts better than chance, we ask: which n out of N points should we annotate to minimize test error? Through asymptotic analysis and experiments on toy and real-world image datasets, we derive closed-form performance curves and pinpoint regimes where biased selection outperforms popular unbiased heuristics such as influence-function-based sampling. We also uncover the counterintuitive finding that discarding large portions of data, or steering selection with a very weak surrogate, can actually boost generalization even in simple settings. I will close the talk by sketching how the same framework extends to recommender systems and other resource-constrained learning problems.
 
-**Speaker**: [Dr. Lucas Theis](https://theis.io/).
+**Bio**
 
-**Title**: Lossy Compression with Diffusion.
+Pulkit Tandon is a Research Engineer at Granica. He leads the pilot rollout of the company’s data-selection product and conducts research on fundamental data optimization, scaling these methods to petabyte-scale AI workloads. He also served as an Adjunct Lecturer at Stanford University, teaching the graduate course “Data Compression: Theory and Applications.” Pulkit earned his Ph.D. in Electrical Engineering from Stanford and earlier contributed to Netflix’s video-encoding pipeline. His work bridges statistical learning and optimization with large-scale, real-world systems across both academia and industry.
 
-**Abstract**: This talk explores new methods for lossy image compression based on diffusion and channel simulation. By simulating a Gaussian channel, any diffusion generative model can be appropriated for compression. The resulting approach is notably different from the transform coding approach that underpins modern codecs and almost all neural compression approaches. However, we find that it works surprisingly well despite the lack of an analysis transform and despite its conceptual simplicity. We further find that this simplicity makes it very amenable to theoretical analysis and offer initial results on its rate-distortion performance under realism constraints.
+#### Invited Talk 4: *Transformers learn to compress variable-order Markov chain sources in context*
+<a name="chao"></a>
 
-**Speaker**: [Prof. Shirin Jalali](https://sites.google.com/site/shirinjalali/home).
+**Speaker:** [Prof. Chao Tian](https://tiangroup.engr.tamu.edu/)
+ 
+**Abstract**
 
-**Title**: Compression Codes: Bridging Theory and Algorithms in Signal Processing and Learning.
+We study in-context learning of variable-length Markov chains by viewing language modeling as a form of data compression and focusing on the well-known variable-order Markov chain (VOMC) sources. This perspective allows classical compression algorithms, particularly the Bayesian optimal context-tree weighting (CTW) algorithm, to serve as baselines. We observe that single-layer transformers cannot learn VOMC in context, while transformers with two or more layers can indeed do so, with more layers providing small but noticeable improvements. Moreover, attention-only networks appear insufficient for this task. We analyze the attention map to extract meaningful structures and provide transformer constructions to explain the observed phenomena. A transformer construction with $D+2$ layers is given that can perform CTW accurately for VOMCs of maximum order $D$, and a simplified transformer construction utilizing partial information for approximate blending is studied to explain why 2-layer transformers work well.
 
-**Abstract**: In the realm of signal processing and machine learning, a foundational challenge lies in developing robust theoretical frameworks that guide the analysis and design of effective solutions. This talk explores the power of compression codes as a unifying framework for these tasks. By leveraging the principles of data compression, we can derive insightful theoretical perspectives that enhance our understanding of inference and learning problems. This framework not only provides a novel lens for theoretical analysis but also informs the creation of practically sound and theoretically-grounded algorithms. We will examine how compression codes bridge this gap, paving the way for advancements in signal processing and machine learning research.
+**Bio**
+Dr. Chao Tian received the B.E. degree in electronic engineering from Tsinghua University, and the M.S. and Ph.D. degrees in electrical and computer engineering from Cornell University. He was a Post-Doctoral Researcher at the Ecole Polytechnique Federale de Lausanne (EPFL), a member of Technical Staff—Research at AT&T Labs Research, and an Associate Professor with the Department of Electrical Engineering and Computer Science, The University of Tennessee Knoxville. He joined the Department of Electrical and Computer Engineering, Texas A&M University in 2017. He was an Associate Editor of the IEEE Signal Processing Letters from 2012 to 2014, an Editor of the IEEE Transactions on Communications from 2016 to 2021, and an Associate Editor for the IEEE Transactions on Information Theory from 2020-2023. He is currently an Associate Editor for the IEEE BITS Magazine and the ITSoc secretary.
 
--->
+#### Invited Talk 5: *State of Learned Compression: Past, Present & Future*
+<a name="kedar"></a>
+
+**Speaker:** [Dr. Kedar Tatwawadi](https://scholar.google.com/citations?user=RU0ZAp4AAAAJ&hl=en)
+
+**Abstract**
+
+In the past decade, ML based methods have introduced a powerful new paradigm for both lossless and lossy data compression. These learned approaches have enabled flexible, data-driven alternatives to traditional hand-crafted codecs, often matching or exceeding their performance in specific domains. In this talk, I will highlight a selection of landmark works in learned compression that have proven influential and enduring, setting foundational ideas that continue to shape the field. I will also present a few notable success stories where learned compression techniques have been deployed in real-world systems, shedding light on what made these deployments possible. Finally, I will discuss key challenges ahead as we reflect on what’s needed for learned compression to become a widely adopted part of future data infrastructure.
+
+**Bio**
+
+Kedar Tatwawadi is a ML Research Scientist at Apple. He leads a team of researchers who work on various problems related to ML-based image/video compression, enhancement and generation. Previously he completed his PhD under the guidance of Dr. Tsachy Weissman, and was a ML Researcher at WaveOne Inc, which specialized in ML-based video compression. His research interests lie at the intersection of machine learning and information theory, with a particular emphasis on data compression and statistical inference. His work bridges theory and practice, contributing to both foundational research and real-world systems.
+
+#### Invited Talk 6: TBA
+<a name="yibo"></a>
+
+**Speaker:** [Dr. Yibo Yang](https://yiboyang.com/about/)
