@@ -23,6 +23,9 @@ table th:nth-of-type(2) {
 table th:nth-of-type(3) {
     width: 50%;
 }
+a.speaker{
+  scroll-margin-top: 150px;
+}
 </style>
 
 | **Time (UTC-4)** | **Event** | **Invited Speaker / Spotlight Paper / Additional Notes** |
@@ -31,7 +34,7 @@ table th:nth-of-type(3) {
 | 09:35 - 09:55 | Moving / Coffee  break | |
 | 09:55 - 10:00 | Opening remarks | | 
 | 10:00 - 10:40 | **Invited Talk 1**  | [Prof. Shirin Saeedi Bidokhti](#shirin) |
-| 10:40 - 11:20 | **Invited Talk 2** | [Prof. Ferenc Huszár](#ferenc) |
+| 10:40 - 11:20 | **Invited Talk 2** | [Prof. Ferenc Huszár: *New directions in causal inference via de Finetti theorems and algorithmic information theory*](#ferenc) |
 | 11:20 - 11:50 | Poster Session 1 | Coffee break at the main venue until **11:30** |
 | 11:50 - 12:30 | **Invited Talk 3** | [Dr. Pulkit Tandon: *Picking the right few: a statistical theory of data selection under weak supervision*](#pulkit) |
 | 12:30 - 12:45 | **Spotlight presentation 1**  | Ali Zafari, Xi Chen and Shirin Jalali: *DeCompress: Denoising via Neural Compression* |
@@ -80,17 +83,25 @@ Connor Ding, Abhiram Rao Gorle, Sagnik Bhattacharya, Divija Hasteer, Naomi S
 ### **Keynotes**:
 
 #### Invited Talk 1: TBA
-<a name="shirin"></a>
+<a name="shirin" class="speaker"></a>
 
 **Speaker:** [Prof. Shirin Saeedi Bidokhti](https://www.seas.upenn.edu/~saeedi)
 
-#### Invited Talk 2: TBA
-<a name="ferenc"></a>
+#### Invited Talk 2: New directions in causal inference via de Finetti theorems and algorithmic information theory
+<a name="ferenc" class="speaker"></a>
 
 **Speaker:** [Prof. Ferenc Huszár](https://www.inference.vc/about/)
 
+**Abstract**
+
+This talk will challenge well known results about the non-identifiably of causal relationships from observational data. Firstly, I will present how, by relaxing the common assumption that data is obtained i.i.d., one can perform causal identification using the so called causal de Finetti theorems. Then, pointing out the limitations of this approach, I will discuss how algorithmic information theory, and new notions such as algorithmic exchangeability may unlock new possibilities for analysing causal structures.
+
+**Bio**
+
+Ferenc Huszár is a Professor of Machine Learning at Cambridge University. His research focuses on understanding the limitations and behaviour of fearning methods, using empirical, theoretical and normative tools. Ferenc obtained a PhD in 2012 from Cambridge University and prior to taking up his current role, worked in the technology industry including deep learning startup Magic Pony Technology and Twitter.
+
 #### Invited Talk 3: *Picking the right few: a statistical theory of data selection under weak supervision*
-<a name="pulkit"></a>
+<a name="pulkit" class="speaker"></a>
 
 **Speaker:** [Dr. Pulkit Tandon](https://www.linkedin.com/in/pulkit-tandon-8621a3a8/)
 
@@ -103,7 +114,7 @@ Labeling and training costs now rival raw-data storage in modern learning pipeli
 Pulkit Tandon is a Research Engineer at Granica. He leads the pilot rollout of the company’s data-selection product and conducts research on fundamental data optimization, scaling these methods to petabyte-scale AI workloads. He also served as an Adjunct Lecturer at Stanford University, teaching the graduate course “Data Compression: Theory and Applications.” Pulkit earned his Ph.D. in Electrical Engineering from Stanford and earlier contributed to Netflix’s video-encoding pipeline. His work bridges statistical learning and optimization with large-scale, real-world systems across both academia and industry.
 
 #### Invited Talk 4: *Transformers learn to compress variable-order Markov chain sources in context*
-<a name="chao"></a>
+<a name="chao" class="speaker"></a>
 
 **Speaker:** [Prof. Chao Tian](https://tiangroup.engr.tamu.edu/)
  
@@ -115,7 +126,7 @@ We study in-context learning of variable-length Markov chains by viewing languag
 Dr. Chao Tian received the B.E. degree in electronic engineering from Tsinghua University, and the M.S. and Ph.D. degrees in electrical and computer engineering from Cornell University. He was a Post-Doctoral Researcher at the Ecole Polytechnique Federale de Lausanne (EPFL), a member of Technical Staff—Research at AT&T Labs Research, and an Associate Professor with the Department of Electrical Engineering and Computer Science, The University of Tennessee Knoxville. He joined the Department of Electrical and Computer Engineering, Texas A&M University in 2017. He was an Associate Editor of the IEEE Signal Processing Letters from 2012 to 2014, an Editor of the IEEE Transactions on Communications from 2016 to 2021, and an Associate Editor for the IEEE Transactions on Information Theory from 2020-2023. He is currently an Associate Editor for the IEEE BITS Magazine and the ITSoc secretary.
 
 #### Invited Talk 5: *State of Learned Compression: Past, Present & Future*
-<a name="kedar"></a>
+<a name="kedar" class="speaker"></a>
 
 **Speaker:** [Dr. Kedar Tatwawadi](https://scholar.google.com/citations?user=RU0ZAp4AAAAJ&hl=en)
 
@@ -128,6 +139,6 @@ In the past decade, ML based methods have introduced a powerful new paradigm for
 Kedar Tatwawadi is a ML Research Scientist at Apple. He leads a team of researchers who work on various problems related to ML-based image/video compression, enhancement and generation. Previously he completed his PhD under the guidance of Dr. Tsachy Weissman, and was a ML Researcher at WaveOne Inc, which specialized in ML-based video compression. His research interests lie at the intersection of machine learning and information theory, with a particular emphasis on data compression and statistical inference. His work bridges theory and practice, contributing to both foundational research and real-world systems.
 
 #### Invited Talk 6: TBA
-<a name="yibo"></a>
+<a name="yibo" class="speaker"></a>
 
 **Speaker:** [Dr. Yibo Yang](https://yiboyang.com/about/)
