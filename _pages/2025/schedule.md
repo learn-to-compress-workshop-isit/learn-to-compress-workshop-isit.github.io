@@ -33,7 +33,7 @@ a.speaker{
 | 08:30 - 09:35 | [Shannon Lecture at the main conference venue](https://2025.ieee-isit.org/plenary-talks#shor) | |
 | 09:35 - 09:55 | Moving / Coffee  break | |
 | 09:55 - 10:00 | Opening remarks | | 
-| 10:00 - 10:40 | **Invited Talk 1**  | [Prof. Shirin Saeedi Bidokhti](#shirin) |
+| 10:00 - 10:40 | **Invited Talk 1**  | [Prof. Shirin Saeedi Bidokhti: *Toward rate-distortion-perception optimality with lattice transform coding*](#shirin) |
 | 10:40 - 11:20 | **Invited Talk 2** | [Prof. Ferenc Huszár: *New directions in causal inference via de Finetti theorems and algorithmic information theory*](#ferenc) |
 | 11:20 - 11:50 | Poster Session 1 | Coffee break at the main venue until **11:30** |
 | 11:50 - 12:30 | **Invited Talk 3** | [Dr. Pulkit Tandon: *Picking the right few: a statistical theory of data selection under weak supervision*](#pulkit) |
@@ -82,10 +82,51 @@ Connor Ding, Abhiram Rao Gorle, Sagnik Bhattacharya, Divija Hasteer, Naomi S
 
 ### **Keynotes**:
 
-#### Invited Talk 1: TBA
+#### Invited Talk 1: Toward rate-distortion-perception optimality with lattice transform coding
 <a name="shirin" class="speaker"></a>
 
 **Speaker:** [Prof. Shirin Saeedi Bidokhti](https://www.seas.upenn.edu/~saeedi)
+
+**Abstract**
+
+Data-driven methods have been the driving force of many
+scientific disciplines in the past decade, relying on huge amounts of
+empirical, experimental, and scientific data. Working with big data is
+impossible without data compression techniques that reduce the
+dimension and size of the data for storage and communication purposes
+and effectively denoise for efficient and accurate processing. In the
+past decade, learning-based compressors such as nonlinear transform
+coding (NTC) have shown great success in the task of compression by
+learning to map a high dimensional source onto its representative
+latent space of lower dimension using neural networks  and compressing
+in that latent space.  However, despite their empirical success, NTC
+and its variants are not optimal. To address this, we incorporate
+fundamental principles from information theory into the design of
+practical, learning-based compression methods. In particular, we
+propose lattice transform coding, a principled framework that achieves
+optimal rate-distortion and rate-distortion–perception tradeoffs for
+Gaussian sources and demonstrates improvements over existing methods
+on real-world datasets.
+
+**Bio**
+
+Shirin Saeedi Bidokhti is an associate professor in the Department of
+Electrical and Systems Engineering at the University of Pennsylvania
+(UPenn). She received her M.Sc. and Ph.D. degrees in Computer and
+Communication Sciences from the Swiss Federal Institute of Technology
+(EPFL). Prior to joining UPenn, she was a postdoctoral scholar at
+Stanford University and the Technical University of Munich. She has
+also held short-term visiting positions at ETH Zurich, University of
+California at Los Angeles, and the Pennsylvania State University. Her
+research interests broadly include the design and analysis of network
+strategies that are scalable, practical, and efficient for use in
+Internet of Things (IoT) applications, information transfer on
+networks, as well as data compression techniques for big data. She is
+a recipient of the 2023 Communications Society & Information Theory
+Society Joint Paper Award, 2022 IT society Goldsmith lecturer award,
+2021 NSF-CAREER award, 2019 NSF-CRII Research Initiative award and the
+prospective researcher and advanced postdoctoral fellowships from the
+Swiss National Science Foundation.
 
 #### Invited Talk 2: New directions in causal inference via de Finetti theorems and algorithmic information theory
 <a name="ferenc" class="speaker"></a>
