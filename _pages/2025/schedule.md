@@ -44,7 +44,7 @@ a.speaker{
 | 14:45 - 15:00 | **Spotlight presentation 3** | Unnikrishnan Kunnath Ganesan, Giuseppe Durisi, Matteo Zecchin, Petar Popovski and Osvaldo Simeone: *Online Conformal Compression for Zero-Delay Communication with Distortion Guarantees* |
 | 15:00 - 15:30 | Poster session 2  | |
 | 15:30 - 16:10 | **Invited Talk 5**  | [Dr. Kedar Tatwawadi: *State of Learned Compression: Past, Present & Future*](#kedar) |
-| 16:10 - 16:50 | **Invited Talk 6**  | [Dr. Yibo Yang](#yibo) |
+| 16:10 - 16:50 | **Invited Talk 6**  | [Dr. Yibo Yang: *Recent Advances in Diffusion-Based Generative Compression*](#yibo) |
 | 16:50 - 16:55 | Awards and Closing Remarks | | 
 | 16:55 - 17:25 | Poster Session 3 | | 
 {: .table}
@@ -82,7 +82,7 @@ Connor Ding, Abhiram Rao Gorle, Sagnik Bhattacharya, Divija Hasteer, Naomi S
 
 ### **Keynotes**:
 
-#### Invited Talk 1: Toward rate-distortion-perception optimality with lattice transform coding
+#### Invited Talk 1: *Toward rate-distortion-perception optimality with lattice transform coding*
 <a name="shirin" class="speaker"></a>
 
 **Speaker:** [Prof. Shirin Saeedi Bidokhti](https://www.seas.upenn.edu/~saeedi)
@@ -128,7 +128,7 @@ Society Joint Paper Award, 2022 IT society Goldsmith lecturer award,
 prospective researcher and advanced postdoctoral fellowships from the
 Swiss National Science Foundation.
 
-#### Invited Talk 2: New directions in causal inference via de Finetti theorems and algorithmic information theory
+#### Invited Talk 2: *New directions in causal inference via de Finetti theorems and algorithmic information theory*
 <a name="ferenc" class="speaker"></a>
 
 **Speaker:** [Prof. Ferenc Huszár](https://www.inference.vc/about/)
@@ -179,7 +179,15 @@ In the past decade, ML based methods have introduced a powerful new paradigm for
 
 Kedar Tatwawadi is a ML Research Scientist at Apple. He leads a team of researchers who work on various problems related to ML-based image/video compression, enhancement and generation. Previously he completed his PhD under the guidance of Dr. Tsachy Weissman, and was a ML Researcher at WaveOne Inc, which specialized in ML-based video compression. His research interests lie at the intersection of machine learning and information theory, with a particular emphasis on data compression and statistical inference. His work bridges theory and practice, contributing to both foundational research and real-world systems.
 
-#### Invited Talk 6: TBA
+#### Invited Talk 6: *Recent Advances in Diffusion-Based Generative Compression* 
 <a name="yibo" class="speaker"></a>
 
 **Speaker:** [Dr. Yibo Yang](https://yiboyang.com/about/)
+
+**Abstract**
+
+Popularized by their strong image generation performance, diffusion and related methods for mass transport ("diffusion" for short) have found widespread success in visual media applications.  In particular, diffusion methods have enabled new approaches to generative data compression, where realistic reconstructions can be achieved at extremely low bitrates.  In this talk, we will review recent diffusion-based methods for lossy compression, focusing on image compression with high realism. These methods generally employ diffusion in the decoding procedure to iteratively refine a compact data representation, such that the final reconstruction approximately follows the ground truth data distribution. The data representation can take on various forms and is typically transmitted via an auxiliary entropy model, with recent work exploring the use of diffusion models themselves for information transmission. We will discuss connections to inverse problem solving, rate-distortion-realism theory, architecture choices, and open research questions.
+
+**Bio**
+
+Yibo Yang is a research scientist on the AI/ML team at the Chan Zuckerberg Initiative, where he develops generative models and other machine-learning methods to accelerate biological discovery. He received his Ph.D. in Computer Science from the University of California, Irvine in 2024, advised by Stephan Mandt. His doctoral work established foundational connections between neural (learned) compression, deep generative modeling, and information theory, and he has led numerous tutorials and workshops in this area.
