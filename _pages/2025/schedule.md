@@ -38,15 +38,15 @@ a.speaker{
 | 11:20 - 11:50 | Poster Session 1 | Coffee break at the main venue until **11:30** |
 | 11:50 - 12:30 | **Invited Talk 3** | [Dr. Pulkit Tandon: *Picking the right few: a statistical theory of data selection under weak supervision*](#pulkit) |
 | 12:30 - 12:45 | **Spotlight presentation 1**  | Ali Zafari, Xi Chen and Shirin Jalali: *DeCompress: Denoising via Neural Compression* |
-| 12:45 - 13:50 | Lunch Break | Overlaps with main conference lunch break between **12:50 - 2:30** |
-| 13:50 - 14:30 | **Invited Talk 4**  | [Prof. Chao Tian: *Transformers learn to compress variable-order Markov chain sources in context*](#chao) |
-| 14:30 - 14:45 | **Spotlight presentation 2** | Alfredo De la Fuente, Saurabh Singh and Jona Ballé: *Discretized Approximate Ancestral Sampling* |
-| 14:45 - 15:00 | **Spotlight presentation 3** | Unnikrishnan Kunnath Ganesan, Giuseppe Durisi, Matteo Zecchin, Petar Popovski and Osvaldo Simeone: *Online Conformal Compression for Zero-Delay Communication with Distortion Guarantees* |
-| 15:00 - 15:30 | Poster session 2  | |
-| 15:30 - 16:10 | **Invited Talk 5**  | [Dr. Kedar Tatwawadi: *State of Learned Compression: Past, Present & Future*](#kedar) |
-| 16:10 - 16:50 | **Invited Talk 6**  | [Dr. Yibo Yang: *Recent Advances in Diffusion-Based Generative Compression*](#yibo) |
-| 16:50 - 16:55 | Awards and Closing Remarks | | 
-| 16:55 - 17:25 | Poster Session 3 | | 
+| 12:45 - 14:05 | Lunch Break | Overlaps with main conference lunch break between **12:50 - 2:30** |
+| 14:05 - 14:45 | **Invited Talk 4**  | [Prof. Chao Tian: *Transformers learn to compress variable-order Markov chain sources in context*](#chao) |
+| 14:45 - 15:00 | **Spotlight presentation 2** | Alfredo De la Fuente, Saurabh Singh and Jona Ballé: *Discretized Approximate Ancestral Sampling* |
+| 15:00 - 15:15 | **Spotlight presentation 3** | Unnikrishnan Kunnath Ganesan, Giuseppe Durisi, Matteo Zecchin, Petar Popovski and Osvaldo Simeone: *Online Conformal Compression for Zero-Delay Communication with Distortion Guarantees* |
+| 15:15 - 15:45 | Poster session 2  | |
+| 15:45 - 16:25 | **Invited Talk 5**  | [Dr. Kedar Tatwawadi: *State of Learned Compression: Past, Present & Future*](#kedar) |
+| 16:25 - 17:05 | **Invited Talk 6**  | [Dr. Yibo Yang: *Recent Advances in Diffusion-Based Generative Compression*](#yibo) |
+| 17:05 - 17:10 | Awards and Closing Remarks | | 
+| 17:10 - 17:30 | Poster Session 3 | | 
 {: .table}
 {: .table-striped}
 
