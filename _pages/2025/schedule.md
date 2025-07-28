@@ -13,6 +13,17 @@ Some accepted papers are selected for spotlight presentations (see below).
 
 For details on the invited talks and the speakers, please see the bottom of the page.
 
+## Slides
+
+The slides for some of the talks that were delivered at the workshop can be found here. For the spotlight presentations, names indicate the presenter.
+- [**Invited Talk 1:** Prof. Shirin Saeedi Bidokhti: *Toward rate-distortion-perception optimality with lattice transform coding*](/assets/pdf/talk_slides/Shirin_Bidokhti-LearnToCompress.pdf)
+- [**Invited Talk 2:** Prof. Ferenc Huszár: *New directions in causal inference via de Finetti theorems and algorithmic information theory*](/assets/pdf/talk_slides/Ferenc_Huszar-De_Finetti_Causal.pdf)
+- [**Invited Talk 4:** Prof. Chao Tian: *Transformers learn to compress variable-order Markov chain sources in context*](/assets/pdf/talk_slides/Chao_Tian-CTW_TF.pdf)
+- [**Invited Talk 6:** Dr. Yibo Yang: *Recent Advances in Diffusion-Based Generative Compression*](/assets/pdf/talk_slides/Yibo_Yang-ISIT_2025_talk.pdf)
+- [**Spotlight Presentation 1:** Ali Zafari: *DeCompress: Denoising via Neural Compression*](/assets/pdf/talk_slides/Ali_Zafari-decompress_isit_workshop.pdf)
+- [**Spotlight Presentation 3:** Matteo Zecchin: *Online Conformal Compression for Zero-Delay Communication with Distortion Guarantees*](/assets/pdf/talk_slides/Matteo_Zecchin-Online_Conformal_Compression.pdf)
+
+## Timetable
 <style>
 table th:first-of-type {
     width: 20%;
