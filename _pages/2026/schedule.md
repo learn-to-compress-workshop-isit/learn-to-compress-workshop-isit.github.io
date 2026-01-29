@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /2025/schedule/
+permalink: /2026/schedule/
 title: Schedule
 description:
-nav: false
+nav: true
 nav_order: 3
 ---
 

@@ -1,9 +1,8 @@
 ---
-layout: workshop_2025
+layout: workshop_2026
 title: About
-permalink: /2025/about/
-subtitle: Workshop at the International Symposium on Information Theory (ISIT) 2025
-nav: false
+permalink: /
+subtitle: Workshop at the International Symposium on Information Theory (ISIT) 2026
 nav_order: 1
 
 profile:

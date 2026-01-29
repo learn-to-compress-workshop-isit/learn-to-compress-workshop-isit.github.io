@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /2025/call/
+permalink: /2026/call/
 title: Call for Papers
 description:  
-nav: false
+nav: true
 nav_order: 2
 ---
 The exponential growth of global data has intensified the demand for efficient data compression, with deep learning techniques like variational autoencoders, generative adversarial networks (GANs), diffusion models, and implicit neural representations reshaping traditional approaches to source coding. Learning-based neural compression methods have demonstrated the potential to outperform traditional codecs across various data modalities like image, video, and audio. However, challenges remain in improving their computational efficiency and memory requirements, understanding the theoretical limits of neural compression and compression without quantization as well as addressing challenges in distributed settings.
