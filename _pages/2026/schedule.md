@@ -7,13 +7,14 @@ nav: true
 nav_order: 3
 ---
 
-The workshop will be held on **Thursday 26 June 2025** at the Rackham Graduate School, 915 E Washington St, Ann Arbor, MI 48109, USA. [See the venue on Google Maps](https://maps.app.goo.gl/QdavWxo9Qy9zWvvq6)
+The workshop will be held on **July 3, 2026** at the Guangzhou Yuexiu International Congress Center.
+[See the venue on Google Maps](https://maps.app.goo.gl/FZMowpsqtkoL9j2h9)
 
-Some accepted papers are selected for spotlight presentations (see below).
+Some accepted papers will be selected for spotlight presentations.
 
-For details on the invited talks and the speakers, please see the bottom of the page.
+For details on the invited talks and the speakers, please see below.
 
-## Slides
+<!-- ## Slides
 
 The slides for some of the talks that were delivered at the workshop can be found here. For the spotlight presentations, names indicate the presenter.
 - [**Invited Talk 1:** Prof. Shirin Saeedi Bidokhti: *Toward rate-distortion-perception optimality with lattice transform coding*](/assets/pdf/talk_slides/Shirin_Bidokhti-LearnToCompress.pdf)
@@ -23,8 +24,9 @@ The slides for some of the talks that were delivered at the workshop can be foun
 - [**Spotlight Presentation 1:** Ali Zafari: *DeCompress: Denoising via Neural Compression*](/assets/pdf/talk_slides/Ali_Zafari-decompress_isit_workshop.pdf)
 - [**Spotlight Presentation 2:** Jona Balle: *Discretized Approximate Ancestral Sampling*](/assets/pdf/talk_slides/Jona_Balle-Discretized.pdf)
 - [**Spotlight Presentation 3:** Matteo Zecchin: *Online Conformal Compression for Zero-Delay Communication with Distortion Guarantees*](/assets/pdf/talk_slides/Matteo_Zecchin-Online_Conformal_Compression.pdf)
+ -->
 
-## Timetable
+## Timetable (Tentative)
 <style>
 table th:first-of-type {
     width: 20%;
@@ -42,30 +44,28 @@ a.speaker{
 
 | **Time (UTC-4)** | **Event** | **Invited Speaker / Spotlight Paper / Additional Notes** |
 | :----------:   | :------- | :------- |
-| 08:30 - 09:35 | [Shannon Lecture at the main conference venue](https://2025.ieee-isit.org/plenary-talks#shor) | |
-| 09:35 - 09:55 | Moving / Coffee  break | |
-| 09:55 - 10:00 | Opening remarks | | 
-| 10:00 - 10:40 | **Invited Talk 1**  | [Prof. Shirin Saeedi Bidokhti: *Toward rate-distortion-perception optimality with lattice transform coding*](#shirin) |
-| 10:40 - 11:20 | **Invited Talk 2** | [Prof. Ferenc Huszár: *New directions in causal inference via de Finetti theorems and algorithmic information theory*](#ferenc) |
-| 11:20 - 11:50 | Poster Session 1 | Coffee break at the main venue until **11:30** |
-| 11:50 - 12:30 | **Invited Talk 3** | [Dr. Pulkit Tandon: *Picking the right few: a statistical theory of data selection under weak supervision*](#pulkit) |
-| 12:30 - 12:45 | **Spotlight presentation 1**  | Ali Zafari, Xi Chen and Shirin Jalali: *DeCompress: Denoising via Neural Compression* |
-| 12:45 - 14:05 | Lunch Break | Overlaps with main conference lunch break between **12:50 - 2:30** |
-| 14:05 - 14:45 | **Invited Talk 4**  | [Prof. Chao Tian: *Transformers learn to compress variable-order Markov chain sources in context*](#chao) |
-| 14:45 - 15:00 | **Spotlight presentation 2** | Alfredo De la Fuente, Saurabh Singh and Jona Ballé: *Discretized Approximate Ancestral Sampling* |
-| 15:00 - 15:15 | **Spotlight presentation 3** | Unnikrishnan Kunnath Ganesan, Giuseppe Durisi, Matteo Zecchin, Petar Popovski and Osvaldo Simeone: *Online Conformal Compression for Zero-Delay Communication with Distortion Guarantees* |
-| 15:15 - 15:45 | Poster session 2  | |
-| 15:45 - 16:25 | **Invited Talk 5**  | [Dr. Kedar Tatwawadi: *State of Learned Compression: Past, Present & Future*](#kedar) |
-| 16:25 - 17:05 | **Invited Talk 6**  | [Dr. Yibo Yang: *Recent Advances in Diffusion-Based Generative Compression*](#yibo) |
-| 17:05 - 17:10 | Awards and Closing Remarks | | 
-| 17:10 - 17:30 | Poster Session 3 | | 
+| 08:30 - 08:55 | Breakfast and coffee | |
+| 08:55 - 09:00 | Opening remarks | | 
+| 09:00 - 09:45 | **Keynote presentation 1** | |
+| 09:45 - 10:15 | **Invited Talk 1**  | |
+| 10:15 - 10:45 | Coffee break | |
+| 10:45 - 11:30 | **Keynote presentation 2** | |
+| 11:30 - 12:00 | **Invited Talk 2** | |
+| 12:00 - 14:00 | Lunch box and poster session | |
+| 14:00 - 14:30 | **Panel/Open discussion**  | |
+| 14:30 - 14:45 | **Oral presentation 1** | |
+| 14:45 - 15:00 | **Oral presentation 2**  | |
+| 15:00 - 15:45 | **Keynote presentation 3** | |
+| 15:45 - 16:15 | **Invited Talk 3** | |
+| 16:15 - 16:45 | Coffee break  | |
+| 16:45 - 17:00 | **Oral presentation 3**  | |
+| 17:00 - 17:15 | **Oral presentation 4**  | |
+| 17:15 - 17:20 | Awards and Closing Remarks | | 
 {: .table}
 {: .table-striped}
 
-The conference **banquet** is taking place directly after the workshop.
 
-
-### **Accepted posters**:
+<!-- ### **Accepted posters**:
 <a name="acceptedPosters"></a>
 
 - *Deep Randomized Distributed Function Computation (DeepRDFC): Neural Distributed Channel Simulation* \
@@ -90,11 +90,11 @@ Connor Ding, Abhiram Rao Gorle, Sagnik Bhattacharya, Divija Hasteer, Naomi S
  Silpa Babu, Sajan Lingala and Namrata Vaswani [Poster #7]
 
 - *Discretized Approximate Ancestral Sampling* \
- Alfredo De la Fuente, Saurabh Singh and Jona Ballé [Poster #8] [**spotlight**]
+ Alfredo De la Fuente, Saurabh Singh and Jona Ballé [Poster #8] [**spotlight**] -->
 
-### **Keynotes**:
+<!-- ### **Keynotes**: -->
 
-#### Invited Talk 1: *Toward rate-distortion-perception optimality with lattice transform coding*
+<!-- #### Invited Talk 1: *Toward rate-distortion-perception optimality with lattice transform coding*
 <a name="shirin" class="speaker"></a>
 
 **Speaker:** [Prof. Shirin Saeedi Bidokhti](https://www.seas.upenn.edu/~saeedi)
@@ -202,4 +202,4 @@ Popularized by their strong image generation performance, diffusion and related 
 
 **Bio**
 
-Yibo Yang is a research scientist on the AI/ML team at the Chan Zuckerberg Initiative, where he develops generative models and other machine-learning methods to accelerate biological discovery. He received his Ph.D. in Computer Science from the University of California, Irvine in 2024, advised by Stephan Mandt. His doctoral work established foundational connections between neural (learned) compression, deep generative modeling, and information theory, and he has led numerous tutorials and workshops in this area.
+Yibo Yang is a research scientist on the AI/ML team at the Chan Zuckerberg Initiative, where he develops generative models and other machine-learning methods to accelerate biological discovery. He received his Ph.D. in Computer Science from the University of California, Irvine in 2024, advised by Stephan Mandt. His doctoral work established foundational connections between neural (learned) compression, deep generative modeling, and information theory, and he has led numerous tutorials and workshops in this area. -->
