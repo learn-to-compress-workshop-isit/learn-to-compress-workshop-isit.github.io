@@ -26,7 +26,7 @@ All accepted papers will be presented as posters during the poster session. We w
 
 ## Submission Details
 
-<strong>Submissions are now open on <a href="https://edas.info/N34907">EDAS</a>!</strong>
+<strong>Submissions are now open on <a href="https://edas.info/newPaper.php?c=34669&track=135786">EDAS</a>!</strong>
 
 Prospective authors should prepare their papers in accordance with the regular submission guidelines of the 2026 IEEE International Symposium on Information Theory (https://2026.ieee-isit.org/information-authors).
 
