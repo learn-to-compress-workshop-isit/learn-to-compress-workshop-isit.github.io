@@ -4,4 +4,5 @@ Please refer to the [this workshop repo](https://github.com/diffusionworkshop/di
  - copy last year's folder in `_pages` and update year
  - set `nav: true` for previous years' `dropdown.md`, and set `nav:false` for all other files
  - copy last year's `workshop_xxxx.html` in `layouts` and change appropriately
+ - change favicon: add desired picture in `assets/img` and change the appropriate path name in `_config.yml`
 
