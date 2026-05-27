@@ -10,6 +10,8 @@ nav_order: 3
 The workshop will be held on **July 3, 2026** at the Guangzhou Yuexiu International Congress Center.
 [See the venue on Google Maps](https://maps.app.goo.gl/FZMowpsqtkoL9j2h9)
 
+Room: **TBD**
+
 Some accepted papers will be selected for spotlight presentations.
 
 For details on the invited talks and the speakers, please see below.
@@ -26,7 +28,7 @@ The slides for some of the talks that were delivered at the workshop can be foun
 - [**Spotlight Presentation 3:** Matteo Zecchin: *Online Conformal Compression for Zero-Delay Communication with Distortion Guarantees*](/assets/pdf/talk_slides/Matteo_Zecchin-Online_Conformal_Compression.pdf)
  -->
 
-## Timetable (Tentative)
+## Timetable
 <style>
 table th:first-of-type {
     width: 20%;
@@ -42,25 +44,28 @@ a.speaker{
 }
 </style>
 
+**Chairs:** Jun Chen, Ezgi Ozyilkan, Yong Fang, and Elza Erkip
+
 | **Time (UTC-4)** | **Event** | **Invited Speaker / Spotlight Paper / Additional Notes** |
 | :----------:   | :------- | :------- |
-| 08:30 - 08:55 | Breakfast and coffee | |
-| 08:55 - 09:00 | Opening remarks | | 
-| 09:00 - 09:45 | **Keynote presentation 1** | |
-| 09:45 - 10:15 | **Invited Talk 1**  | |
-| 10:15 - 10:45 | Coffee break | |
-| 10:45 - 11:30 | **Keynote presentation 2** | |
-| 11:30 - 12:00 | **Invited Talk 2** | |
-| 12:00 - 14:00 | Lunch box and poster session | |
-| 14:00 - 14:30 | **Panel/Open discussion**  | |
-| 14:30 - 14:45 | **Oral presentation 1** | |
-| 14:45 - 15:00 | **Oral presentation 2**  | |
-| 15:00 - 15:45 | **Keynote presentation 3** | |
-| 15:45 - 16:15 | **Invited Talk 3** | |
-| 16:15 - 16:45 | Coffee break  | |
-| 16:45 - 17:00 | **Oral presentation 3**  | |
-| 17:00 - 17:15 | **Oral presentation 4**  | |
-| 17:15 - 17:20 | Awards and Closing Remarks | | 
+| **09:50 - 11:10** | **Technical Session 1** | |
+| 09:50 – 10:30 |  Keynote Presentation 1 | Aaron Wagner: *Wasserstein Distortion: Unifying Fidelity and Realism* | 
+| 10:30 - 10:50 | Oral Presentation 1  | Noel Elias, Homa Esfahanizadeh, Kaan Kale, Sriram Vishwanath, Muriel Médard: *MultiTok: Variable-Length Tokenization for Efficient LLMs Adapted from LZW Compression* |
+| 10:50 - 11:10 | Oral Presentation 2  | Tong Wu, Zhiyong Chen, Guo Lu, Li Song, Feng Yang, Meixia Tao, Wenjun Zhang: *Joint Source-Channel-Generation Coding: From Distortion-Oriented Reconstruction to Semantic-Consistent Generation* |
+| 11:10 - 11:30 | Tea Break | |
+| **11:30 - 12:50** | **Technical Session 2** | |
+| 11:30 - 12:10 | Keynote Presentation 2 | Bo Bai: *Forget BIT, It is all about TOKEN: Towards Semantic Information Theory for LLMs* |
+| 12:10 - 12:50 | Invited Talk 1 | Yanjun Han: *Next-symbol Prediction from Compression: Statistical and Computational Foundations* |
+| 12:50 - 14:00 | Lunch Break and Poster Session | |
+| **14:00 - 15:20** | **Technical Session 3**  | |
+| 14:00 - 14:40 | Keynote Presentation 3 | Zoe Liu: *AV1 for Video AI: From Bit Compression to Token Compression* |
+| 14:40 - 15:00 | Oral Presentation 3  | Chenghong Bian, Yulin Shao, Deniz Gündüz: *Towards AI-Native Fronthaul: Neural Compression for NextG Cloud RAN* |
+| 15:00 - 15:20 | Oral Presentation 4 | Gergely Flamich, Spencer Hill: *Singular Relative Entropy Coding with Bits-Back Rejection Sampling* |
+| 15:20 - 15:40 | Tea Break | |
+| **15:40 - 18:00** | **Technical Session 4**  | |
+| 15:40 - 16:20 | Invited Talk 2 | Xueyan Niu: *Compression for LLMs and LLMs for Compression* |
+| 16:20 - 17:00 | Invited Talk 3  | Wenqi Shao: *Towards Practical Foundation Model Compression by Quantization and Linear Attention* |
+| 17:00 - 18:00 | Panel and Open Discussion | | 
 {: .table}
 {: .table-striped}
 
