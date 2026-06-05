@@ -10,7 +10,7 @@ nav_order: 3
 The workshop will be held on **July 3, 2026** at the Guangzhou Yuexiu International Congress Center.
 [See the venue on Google Maps](https://maps.app.goo.gl/FZMowpsqtkoL9j2h9)
 
-Room: **TBD**
+Room: **602B**
 
 Some accepted papers will be selected for spotlight presentations.
 
@@ -50,7 +50,7 @@ a.speaker{
 | :----------:   | :------- | :------- |
 | **09:50 - 11:10** | **Technical Session 1** | |
 | 09:50 – 10:30 |  Keynote Presentation 1 | Aaron Wagner: *Wasserstein Distortion: Unifying Fidelity and Realism* | 
-| 10:30 - 10:50 | Oral Presentation 1  | Noel Elias, Homa Esfahanizadeh, Kaan Kale, Sriram Vishwanath, Muriel Médard: *MultiTok: Variable-Length Tokenization for Efficient LLMs Adapted from LZW Compression* |
+| 10:30 - 10:50 | Oral Presentation 1  | Changshuo Wang, Zijian Liang, Kai Niu, Ping Zhang: *A Theoretical Framework for Rate-Distortion Limits in Learned Image Compression* |
 | 10:50 - 11:10 | Oral Presentation 2  | Tong Wu, Zhiyong Chen, Guo Lu, Li Song, Feng Yang, Meixia Tao, Wenjun Zhang: *Joint Source-Channel-Generation Coding: From Distortion-Oriented Reconstruction to Semantic-Consistent Generation* |
 | 11:10 - 11:30 | Tea Break | |
 | **11:30 - 12:50** | **Technical Session 2** | |
@@ -70,32 +70,25 @@ a.speaker{
 {: .table-striped}
 
 
-<!-- ### **Accepted posters**:
+### **Accepted posters**:
 <a name="acceptedPosters"></a>
 
-- *Deep Randomized Distributed Function Computation (DeepRDFC): Neural Distributed Channel Simulation* \
-Didrik Bergström and Onur Günlü [Poster #1]
-
-- *Online Conformal Compression for Zero-Delay Communication with Distortion Guarantees* \
-Unnikrishnan Kunnath Ganesan, Giuseppe Durisi, Matteo Zecchin, Petar Popovski and Osvaldo Simeone [Poster #2] [**spotlight**]
-
-- *Gone with the Bits: Revealing Racial Bias in Low-Rate Neural Compression for Facial Images* \
-Tian Qiu, Arjun Nichani, Rasta Tadayontahmasebi and Haewon Jeong [Poster #3]
-
-- *On List Decoding with Importance Sampling* \
- Buu Phan and Ashish Khisti [Poster #4]
-
-- *LZMidi: Compression-Based Symbolic Music Generation* \
-Connor Ding, Abhiram Rao Gorle, Sagnik Bhattacharya, Divija Hasteer, Naomi Sagan and Tsachy Weissman [Poster #5]
-
-- *DeCompress: Denoising via Neural Compression* \
- Ali Zafari, Xi Chen and Shirin Jalali [Poster #6] [**spotlight**]
-
-- *Generalizable Real-Time Accelerated Dynamic MRI* \
- Silpa Babu, Sajan Lingala and Namrata Vaswani [Poster #7]
-
-- *Discretized Approximate Ancestral Sampling* \
- Alfredo De la Fuente, Saurabh Singh and Jona Ballé [Poster #8] [**spotlight**] -->
+1. **MultiTok: Variable-Length Tokenization for Efficient LLMs Adapted from LZW Compression**
+by Noel Elias; Homa Esfahanizadeh; Kaan Kale; Sriram Vishwanath; Muriel Médard
+2. **SCKM: Symmetric Co-Skew Moment for User Selection in Federated Learning**
+by Liangyan Li; Yangyi Liu; Yimo Ning; Stefano Rini; Jun Chen
+3. **A Distortion-Aware Discrete Semantic Communication Framework for Multiple-Access Channels** 
+by Yiqiao Zhou; Na Wang; Xiaolong Hong; Kangning Ma; Shuo Shao
+4. **Nonsquare 2D Orthogonal Matching Pursuit with Karhunen-Loeve Transform and Trellis Coded Quantization**
+by Linlong Guo; Yize Yang; Yong Fang
+5. **Serial Concatenation of Compander and Trellis Coded Quantizer**
+by Linlong Guo; Yize Yang; Yong Fang
+6. **Hamming Distance Spectrum-Based Dynamic Pruning Method in Distributed Arithmetic Coding**
+by Junwei Zhou; Haoyun Xiao; Jianwen Xiang; Yanchao Yang
+7. **Rate-Distortion-Complexity: Bridging Shannon Information and Neural Network Expressivity** 
+by Jiancheng Tang; Qianqian Yang
+8. **The Entropy of Early Language: Benchmarking Source Coding on the CHILDES Corpus**
+by Erick Oduniyi
 
 <!-- ### **Keynotes**: -->
 
