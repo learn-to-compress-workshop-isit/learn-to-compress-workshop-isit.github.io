@@ -87,8 +87,6 @@ by Linlong Guo; Yize Yang; Yong Fang
 by Junwei Zhou; Haoyun Xiao; Jianwen Xiang; Yanchao Yang
 7. **Rate-Distortion-Complexity: Bridging Shannon Information and Neural Network Expressivity** 
 by Jiancheng Tang; Qianqian Yang
-8. **The Entropy of Early Language: Benchmarking Source Coding on the CHILDES Corpus**
-by Erick Oduniyi
 
 <!-- ### **Keynotes**: -->
 
